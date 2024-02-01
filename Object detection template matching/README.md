@@ -1,4 +1,4 @@
-# 🚀 Repo sobre  Detección Mágica de Objetos 🤖
+# 🚀 Repo sobre  Detección  de Objetos 🤖
 ---
 
 ¡Bienvenido al asombroso mundo de la detección mágica de objetos con 🤖 IA, donde la magia y el código se encuentran para crear algo increíble! 🌟
