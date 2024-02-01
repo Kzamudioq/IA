@@ -1,5 +1,5 @@
 # RepoChevere de IA en Python 🤖🚀
-
+---
 ¡Bienvenido al RepoChevere de Inteligencia Artificial en Python! 🧠✨
 
 ## Descripción 🤖
@@ -24,4 +24,10 @@ Antes de comenzar, asegúrate de tener instalados los componentes mágicos neces
 Este repo es como un festival continuo de ceros y unos, así que la licencia permite que todos disfruten y se unan a la fiesta. Echa un vistazo a los detalles en nuestra sección de licencia.
 
 Prepárate para un viaje mágico en el mundo de la inteligencia artificial. ¡Que los bits del código te acompañen! 🌟💻
+
+---
+
+**Autora: Karen Tatiana Zamudio Quintero**
+_Ingeniera Topográfica_
+_Universidad Distrital_
 
