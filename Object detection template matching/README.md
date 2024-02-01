@@ -48,7 +48,7 @@ Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranqui
     <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/ffc12696-3f49-439b-b957-4c943f07e407"> 
 </p>
 
-# Características 
+### Características 
 - 📏 **Invariante a Escala:** este codigo es como el sol que siempre sale. Es invariante a escala, lo que significa que puede detectar objetos incluso si cambian de tamaño en la imagen.
 
 - 🕵️‍♂️ **Detecta un Objeto por Imagen:** como un observador zen, este hechizo se enfoca en un objeto a la vez. Solo detectará el objeto más dominante en la imagen.
