@@ -1,4 +1,4 @@
-# RepoChevere de IA en Python 🤖🚀
+# Repo de IA en Python 🤖🚀
 ---
 ¡Bienvenido al RepoChevere de Inteligencia Artificial en Python! 🧠✨
 
