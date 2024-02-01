@@ -44,6 +44,16 @@ Visualiza el resultado de la detección dibujando un rectángulo alrededor del o
 ## ¿Qué Resultados Esperar? 
 Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranquilo te indicará dónde se encuentra el objeto mágico. Y si no hay coincidencias, la calma te dirá que no hubo detecciones con el umbral especificado.
 
+<p align="center" width="50%">
+    <img width="20%" src="https://github.com/Kzamudioq/IA/assets/138271936/ffc12696-3f49-439b-b957-4c943f07e407"> 
+</p>
+
+# Características 
+- 📏 **Invariante a Escala:** este codigo es como el sol que siempre sale. Es invariante a escala, lo que significa que puede detectar objetos incluso si cambian de tamaño en la imagen.
+
+- 🕵️‍♂️ **Detecta un Objeto por Imagen:** como un observador zen, este hechizo se enfoca en un objeto a la vez. Solo detectará el objeto más dominante en la imagen.
+
+
 ## Ventajas 
 - 🌙 **Fácil de Usar:** No necesitas ser un mago del código. Con unos clics, podrás usar esta herramienta tranquila.
 - 🌿 **Versátil:** Detecta desde mariposas en el jardín hasta luces de luciérnagas en tus imágenes.
