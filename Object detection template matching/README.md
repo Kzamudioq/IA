@@ -36,7 +36,7 @@ La técnica de "template matching" es como tener un rompecabezas mágico. Imagin
 Carga y preprocesa la plantilla utilizada para la detección de objetos.
 
 <p align="center" width="50%">
-    <img width="20%" src="https://github.com/Kzamudioq/IA/assets/138271936/37a57c80-29da-4af3-8658-1e16ad367278"> 
+    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/37a57c80-29da-4af3-8658-1e16ad367278"> 
 </p>
 
 
