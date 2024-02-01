@@ -8,6 +8,13 @@ Este cuaderno es más loco que una fiesta de robots en el espacio. Imagina un mu
 
 ## ¿Qué Hace Este Hechizo? 🧙‍♂️
 Este hechizo de código utiliza la poderosa técnica de "template matching" en OpenCV para detectar objetos en imágenes. Imagina que la IA tiene ojos mágicos que buscan patrones específicos en las imágenes para decirte dónde se esconde la magia. 🔍✨
+----
+
+## ¿Qué es OpenCV? 🌈
+OpenCV, o Open Source Computer Vision Library, es una biblioteca de visión por computadora de código abierto. En este tranquilo rincón, OpenCV se convierte en una varita mágica que permite a la IA ver y entender el mundo visual.
+
+## ¿Qué es "Template Matching"? 🧩
+La técnica de "template matching" es como tener un rompecabezas mágico. Imagina que tienes una pieza especial (una plantilla) y deseas encontrar dónde encaja en una imagen más grande. Este hechizo utiliza esa plantilla para buscar coincidencias en la imagen y encontrar dónde se oculta el objeto mágico.
 
 ## Funciones Mágicas ✨
 ### `load_and_preprocess_template(template_path)`
@@ -19,6 +26,8 @@ Realiza la detección de objetos en una imagen utilizando la técnica de "templa
 ### `visualize_result(image, x_start, y_start, x_end, y_end)`
 Visualiza el resultado de la detección dibujando un rectángulo alrededor del objeto detectado.
 
+----
+
 ## ¿Qué Resultados Esperar? 🌈
 Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranquilo te indicará dónde se encuentra el objeto mágico. Y si no hay coincidencias, la calma te dirá que no hubo detecciones con el umbral especificado.
 
@@ -28,6 +37,8 @@ Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranqui
 
 ## Desventajas🧘‍♂️
 - 🌊 **Dependiente de Plantillas:** Al igual que en un jardín zen, necesita de sus herramientas. Este código depende de tener una plantilla para buscar en las imágenes.
+
+-----
 
 ## Relación con la IA 🌌
 Este cuaderno tiene una conexión especial con la IA, donde la serenidad se encuentra con la inteligencia. Utiliza técnicas que harían sonreír a las inteligencias artificiales más avanzadas. ¡Imagina a Siri meditando mientras hace esto!
