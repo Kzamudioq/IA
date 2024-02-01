@@ -35,6 +35,11 @@ La técnica de "template matching" es como tener un rompecabezas mágico. Imagin
 ### `load_and_preprocess_template(template_path)`
 Carga y preprocesa la plantilla utilizada para la detección de objetos.
 
+<p align="center" width="50%">
+    <img width="20%" src="https://github.com/Kzamudioq/IA/assets/138271936/37a57c80-29da-4af3-8658-1e16ad367278"> 
+</p>
+
+
 ### `object_detection(image_path, template_edges, template_size, confidence_threshold=70)`
 Realiza la detección de objetos en una imagen utilizando la técnica de "template matching". Devuelve las coordenadas del objeto detectado si supera el umbral de confianza.
 
