@@ -1,4 +1,4 @@
-# <p align="center">🌙 Repositorio Tranqui de Detección de Objetos 🤖</p>
+# <p align="center">🌙 Repositorio de Detección de Objetos 🤖</p>
 
 
 ---
