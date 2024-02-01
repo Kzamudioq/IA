@@ -20,21 +20,19 @@ Realiza la detección de objetos en una imagen utilizando la técnica de "templa
 Visualiza el resultado de la detección dibujando un rectángulo alrededor del objeto detectado.
 
 ## ¿Qué Resultados Esperar? 🌈
-Este hechizo te mostrará un mapa del tesoro, pero en lugar de X marcando el lugar, te mostrará un rectángulo mágico alrededor del objeto detectado. ¡Pero cuidado! Si no se encuentra nada, la magia te dirá que no hubo coincidencias con el umbral especificado.
+Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranquilo te indicará dónde se encuentra el objeto mágico. Y si no hay coincidencias, la calma te dirá que no hubo detecciones con el umbral especificado.
 
-## Ventajas Encantadoras 🌈
-- 🚀 **Fácil de Usar:** Ni siquiera necesitas ser un mago de la programación. ¡Con un par de varitas mágicas (o clics), podrás usar este código!
-- 🌟 **Versátil:** Sirve para detectar casi cualquier cosa que puedas imaginar. Desde gatos voladores hasta dragones en tus fotos.
+## Ventajas 🍃
+- 🌙 **Fácil de Usar:** No necesitas ser un mago del código. Con unos clics, podrás usar esta herramienta tranquila.
+- 🌿 **Versátil:** Detecta desde mariposas en el jardín hasta luces de luciérnagas en tus imágenes.
 
-## Desventajas Místicas 🕳️
-- 🧙‍♂️ **Dependiente de Plantillas:** Como todo buen mago, necesita sus trucos. Este código depende de tener una plantilla mágica para buscar en las imágenes.
+## Desventajas🧘‍♂️
+- 🌊 **Dependiente de Plantillas:** Al igual que en un jardín zen, necesita de sus herramientas. Este código depende de tener una plantilla para buscar en las imágenes.
 
-## Relación con la IA 🧠
-Este hechizo tiene una conexión especial con la IA. ¿Por qué? Porque utiliza técnicas que harían sonrojar a las inteligencias artificiales más avanzadas. ¡Imagina a Siri intentando hacer esto!
+## Relación con la IA 🌌
+Este cuaderno tiene una conexión especial con la IA, donde la serenidad se encuentra con la inteligencia. Utiliza técnicas que harían sonreír a las inteligencias artificiales más avanzadas. ¡Imagina a Siri meditando mientras hace esto!
 
-## Teorías Locas 🌌
-Se rumorea que este código es la base de entrenamiento para los robots que planifican invadir el mundo. 🌎🤖 ¡Pero no te preocupes, aún estamos en la fase de detectar objetos inofensivos!
-
-¡Prepárate para embarcarte en un viaje mágico donde el código se encuentra con la magia! 🚀✨
+## Teorías🍀
+Se rumorea que este código es la base para enseñar a los robots a detectar objetos amigables en el mundo. 🌍🤖 ¡Pero no te preocupes, aún estamos los primeros pasos para detectar objetos !
 
 
