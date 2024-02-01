@@ -29,6 +29,6 @@ Prepárate para un viaje mágico en el mundo de la inteligencia artificial. ¡Qu
 
 **Autora: **
 - Karen Tatiana Zamudio Quintero
-_Ingeniera Topográfica_
-_Universidad Distrital_
+-_Ingeniera Topográfica_
+-_Universidad Distrital francisco José de Caldas_
 
