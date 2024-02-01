@@ -18,7 +18,7 @@ Para acer esto posible se implementa la poderosa técnica de "template matching"
 
 ## ¿Qué es OpenCV? 
 
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/e7194f2a-81fc-438b-8fd6-aa7f706df453"> 
 </p>
 
