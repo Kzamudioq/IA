@@ -3,6 +3,12 @@
 
 ¡Bienvenido al asombroso mundo de la detección mágica de objetos con 🤖 IA, donde la magia y el código se encuentran para crear algo increíble! 🌟
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/94d4e51e-2ba4-4ca8-973d-9d153c5d3cf8"> 
+</p>
+
+
+
 ## Descripción🤪
 Este cuaderno es más loco que una fiesta de robots en el espacio. Imagina un mundo donde las máquinas pueden detectar objetos mágicamente utilizando plantillas. ¿Suena a ciencia ficción? ¡Pues aquí lo hacemos realidad!
 
