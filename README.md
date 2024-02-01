@@ -9,7 +9,7 @@ Este es el lugar donde los circuitos de la inteligencia artificial bailan al rit
 Hemos decorado este repo con íconos tan brillantes que hasta los procesadores cuánticos sentirían envidia. Desde neuronas titilantes hasta algoritmos que parecen auténticos rockstars del código, aquí encontrarás un desfile de íconos tan cheveres que querrás imprimirlos y pegarlos en tu portátil.
 
 ## Estructura Asombrosa 🌌
-- **Algoritmos Mágicos:** Explora implementaciones de algoritmos que harán que tu código brille con luz propia.
+**Algoritmos Mágicos:** Explora implementaciones de algoritmos que harán que tu código brille con luz propia.
 - **Modelos Estelares:** Navega por carpetas llenas de modelos que harán que hasta tu café sepa más inteligente.
 - **Ejemplos Wow:** Déjate asombrar por ejemplos que te harán exclamar ¡Wow! mientras descubres cómo poner la IA en acción.
 - **Datos que Deslumbran:** Conjuntos de datos que son como estrellas en el cielo, listos para ser explorados y utilizados en tus proyectos.
@@ -29,6 +29,6 @@ Prepárate para un viaje mágico en el mundo de la inteligencia artificial. ¡Qu
 
 **Autora:**
 - Karen Tatiana Zamudio Quintero
--_Ingeniera Topográfica_
--_Universidad Distrital francisco José de Caldas_
+- _Ingeniera Topográfica_
+- _Universidad Distrital francisco José de Caldas_
 
