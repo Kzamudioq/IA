@@ -9,17 +9,24 @@
 
 
 
-## Descripción🤪
-Este cuaderno es más loco que una fiesta de robots en el espacio. Imagina un mundo donde las máquinas pueden detectar objetos mágicamente utilizando plantillas. ¿Suena a ciencia ficción? ¡Pues aquí lo hacemos realidad!
+## ✨ Descripción ✨
+Imagina un mundo donde las máquinas pueden detectar objetos mágicamente utilizando plantillas. ¿Suena a ciencia ficción? ¡Pues aquí lo hacemos realidad!, poco a poco, estos es solo los primeros pasos.
 
-## ¿Qué Hace Este Hechizo? 🧙‍♂️
-Este hechizo de código utiliza la poderosa técnica de "template matching" en OpenCV para detectar objetos en imágenes. Imagina que la IA tiene ojos mágicos que buscan patrones específicos en las imágenes para decirte dónde se esconde la magia. 🔍✨
-----
+## ¿Qué Hace ? 🧙‍♂️
 
-## ¿Qué es OpenCV? 🌈
+Para acer esto posible se implementa la poderosa técnica de "template matching" en OpenCV para detectar objetos en imágenes. Imagina que la IA tiene ojos mágicos que buscan patrones específicos en las imágenes para decirte dónde se esconde la magia. 🔍✨
+
+## ¿Qué es OpenCV? 
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/e7194f2a-81fc-438b-8fd6-aa7f706df453"> 
+</p>
+
+
 OpenCV, o Open Source Computer Vision Library, es una biblioteca de visión por computadora de código abierto. En este tranquilo rincón, OpenCV se convierte en una varita mágica que permite a la IA ver y entender el mundo visual.
 
 ## ¿Qué es "Template Matching"? 🧩
+
 La técnica de "template matching" es como tener un rompecabezas mágico. Imagina que tienes una pieza especial (una plantilla) y deseas encontrar dónde encaja en una imagen más grande. Este hechizo utiliza esa plantilla para buscar coincidencias en la imagen y encontrar dónde se oculta el objeto mágico.
 
 ## Funciones Mágicas ✨
@@ -34,10 +41,10 @@ Visualiza el resultado de la detección dibujando un rectángulo alrededor del o
 
 ----
 
-## ¿Qué Resultados Esperar? 🌈
+## ¿Qué Resultados Esperar? 
 Este cuaderno te mostrará un mapa de la serenidad, donde un rectángulo tranquilo te indicará dónde se encuentra el objeto mágico. Y si no hay coincidencias, la calma te dirá que no hubo detecciones con el umbral especificado.
 
-## Ventajas 🍃
+## Ventajas 
 - 🌙 **Fácil de Usar:** No necesitas ser un mago del código. Con unos clics, podrás usar esta herramienta tranquila.
 - 🌿 **Versátil:** Detecta desde mariposas en el jardín hasta luces de luciérnagas en tus imágenes.
 
