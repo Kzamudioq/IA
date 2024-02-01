@@ -1,6 +1,6 @@
 # Repo de IA en Python 🤖🚀
 ---
-¡Bienvenido al RepoChevere de Inteligencia Artificial en Python! 🧠✨
+¡Bienvenido al Chevere de Inteligencia Artificial en Python! 🧠✨
 
 ## Descripción 🤖
 Este es el lugar donde los circuitos de la inteligencia artificial bailan al ritmo del código Python más chevere. Sumérgete en un mundo de algoritmos y modelos que harán que tu código sea más inteligente que un robot en aprendizaje.
