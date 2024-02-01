@@ -1,8 +1,9 @@
 # 🚀 Repo sobre  Detección Mágica de Objetos 🤖
+---
 
 ¡Bienvenido al asombroso mundo de la detección mágica de objetos con 🤖 IA, donde la magia y el código se encuentran para crear algo increíble! 🌟
 
-## Descripción Loca 🤪
+## Descripción🤪
 Este cuaderno es más loco que una fiesta de robots en el espacio. Imagina un mundo donde las máquinas pueden detectar objetos mágicamente utilizando plantillas. ¿Suena a ciencia ficción? ¡Pues aquí lo hacemos realidad!
 
 ## ¿Qué Hace Este Hechizo? 🧙‍♂️
