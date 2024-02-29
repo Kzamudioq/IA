@@ -1,7 +1,8 @@
 @Kzamudio ¿Qué te parece el repositorio? ¡Está chido! :+1:
-# <p align="center">🌙 Repositorio de cervical cancer risk factors analysis 🤖</p>
 
-
+<h1 align="center">
+  <p align="center">:star: Lisa Simpson te guía: Repositorio de cervical cancer risk factors analysis :star:</p>
+</h1>
 ---
 
 # ¡Hola, soy Lisa Simpson!
