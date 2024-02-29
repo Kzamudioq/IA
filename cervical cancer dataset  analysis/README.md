@@ -1,16 +1,16 @@
 @Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
-  <p align="center">:star: Lisa Simpson te guía: Repositorio de cervical cancer risk factors analysis :star:</p>
+  <p align="center">:star: Marge Simpson te guía: Repositorio de cervical cancer risk factors analysis :star:</p>
 </h1>
 
 
-`¡Hola, soy Lisa Simpson!`
+`¡Hola, soy Marge Simpson!`
 
 ¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/67ba9f76-0e78-4c72-b221-bfcbd64c9453"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/71d33894-4482-40a6-9848-3cac38c7bdd1"> 
 </p>
 
 Este conjunto de datos es como el tesoro de la información médica y lo obtuvimos amablemente del Repositorio de UCI. 🏴‍☠️
@@ -87,6 +87,8 @@ Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/2162ff14-54d6-4734-abef-2d290409e292"> 
 </p>
+
+
 
 ## ¿Qué Hay en Este Repositorio?
 
