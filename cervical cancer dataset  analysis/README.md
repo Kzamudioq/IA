@@ -18,7 +18,7 @@ Este conjunto de datos es como el tesoro de la información médica y lo obtuvim
 ## Acerca del Cáncer Cervical
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/3c48b129-e63f-4fa7-afd4-708b06d51f52"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/f707360f-e029-4e25-9af2-e1efbd7d883d"> 
 </p>
 
 
