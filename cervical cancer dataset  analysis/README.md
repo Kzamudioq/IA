@@ -20,12 +20,11 @@ Este conjunto de datos es como el tesoro de la información médica y lo obtuvim
 
 🧠**¿Qué es el Cáncer Cervical y por qué es tan importante?**🧠
 
-El cáncer cervical es un tipo de cáncer que se origina en el cuello del útero. Aproximadamente, ¡11,000 mujeres en los EE. UU. son diagnosticadas con esta enfermedad cada año! Ahora, ¿no es eso increíble?
+¡Oh, el cáncer cervical! Es como una película de terror, pero no te preocupes, estoy aquí para explicarte. Este es un tipo de cáncer que aparece en el cuello del útero. Cada año, aproximadamente 11,000 mujeres en los EE. UU. descubren que tienen este problema. Sí, es un número bastante alto.
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/f707360f-e029-4e25-9af2-e1efbd7d883d"> 
+    <img width="30%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/2162ff14-54d6-4734-abef-2d290409e292"> 
 </p>
-
 
 💡**¿Por qué se da el Cáncer Cervical?**💡
 
