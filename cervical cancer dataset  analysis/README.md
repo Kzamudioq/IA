@@ -15,7 +15,13 @@ Este conjunto de datos es como el tesoro de la información médica y lo obtuvim
 
 ## Acerca del Cáncer Cervical
 
-Cada año, aproximadamente 11,000 mujeres en los EE. UU. son diagnosticadas con cáncer cervical. ¡Increíble, verdad? Pero no te preocupes, estamos aquí para aprender y prevenir.
+**¿Qué es el Cáncer Cervical y por qué es tan importante?**
+
+El cáncer cervical es un tipo de cáncer que se origina en el cuello del útero. Aproximadamente, ¡11,000 mujeres en los EE. UU. son diagnosticadas con esta enfermedad cada año! Ahora, ¿no es eso increíble?
+
+**¿Por qué se da el Cáncer Cervical?**
+
+El principal culpable aquí es el virus del papiloma humano (HPV). La actividad sexual con una persona infectada es el factor de riesgo más importante para el HPV en adultos. ¡Así que la prevención es clave!
 
 ## Explorando los Datos 🕵️‍♀️
 
@@ -41,5 +47,4 @@ Esto es solo el comienzo. En futuros repositorios, profundizaremos en modelos pr
 Recuerda, el conocimiento es poder. ¡Hasta la próxima!
 
 **¡Para obtener más información sobre el conjunto de datos, visita [Kaggle](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification/data)!**
-
 
