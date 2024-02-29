@@ -90,17 +90,17 @@ Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren 
 
 ## ¿Qué Hay en Este Repositorio?
 
-- **Análisis Exploratorio de Datos:** comencemos explorando la distribución de variables numéricas y categóricas. Los histogramas y gráficos de barras serán nuestras herramientas de elección para visualizar estas gemas de información. ¡Estamos a punto de descubrir patrones y secretos!
-- 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/339151f1-e95a-4af1-81d3-f4c6f0f99322"> 
+- **`Análisis Exploratorio de Datos:`** comencemos explorando la distribución de variables numéricas y categóricas. Los histogramas y gráficos de barras serán nuestras herramientas de elección para visualizar estas gemas de información. ¡Estamos a punto de descubrir patrones y secretos!
+  
+- **`Transformación de Variables:`**  a veces, las variables necesitan un pequeño cambio para brillar. Analizaremos si alguna transformación es necesaria para nuestras variables. ¿Será necesario convertir algunas en variables dummy o estandarizar las numéricas? ¡Misterios por resolver!
+  
+- **`Análisis de Correlación:`** desentrañaremos las relaciones entre las variables mediante la calculadora de la matriz de correlación. ¿Hay multicolinealidad o características altamente correlacionadas? Prepárate para descubrimientos fascinantes.
+  
+- **`Modelado y Evaluación:`** aquí es donde las cosas se ponen emocionantes. Construiremos modelos de machine learning para predecir nuestra variable objetivo. Hablaremos de divisiones de conjunto de datos, selección de modelos y cómo evaluar su rendimiento. ¿Preparado para el desafío?
+  
+- **`Manejo de Datos Desbalanceados:`** si la variable objetivo está desequilibrada, no te preocupes. Discutiremos estrategias como el muestreo estratificado y métricas de evaluación adecuadas para enfrentar este desafío.
 
-- **Transformación de Variables:**  a veces, las variables necesitan un pequeño cambio para brillar. Analizaremos si alguna transformación es necesaria para nuestras variables. ¿Será necesario convertir algunas en variables dummy o estandarizar las numéricas? ¡Misterios por resolver!
-- **Análisis de Correlación:** desentrañaremos las relaciones entre las variables mediante la calculadora de la matriz de correlación. ¿Hay multicolinealidad o características altamente correlacionadas? Prepárate para descubrimientos fascinantes.
-- **Modelado y Evaluación:** aquí es donde las cosas se ponen emocionantes. Construiremos modelos de machine learning para predecir nuestra variable objetivo. Hablaremos de divisiones de conjunto de datos, selección de modelos y cómo evaluar su rendimiento. ¿Preparado para el desafío?
-- **Manejo de Datos Desbalanceados:** si la variable objetivo está desequilibrada, no te preocupes. Discutiremos estrategias como el muestreo estratificado y métricas de evaluación adecuadas para enfrentar este desafío.
-
-- **Validación Cruzada:** para obtener estimaciones robustas del rendimiento del modelo, aprenderemos sobre la validación cruzada. ¡Una técnica esencial para maestros de datos intrépidos como tú!
+- **`Validación Cruzada:`** para obtener estimaciones robustas del rendimiento del modelo, aprenderemos sobre la validación cruzada. ¡Una técnica esencial para maestros de datos intrépidos como tú!
 
 ## Próximos Pasos 🚀
 
