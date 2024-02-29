@@ -17,31 +17,25 @@ Este conjunto de datos es como el tesoro de la información médica y lo obtuvim
 
 ## Acerca del Cáncer Cervical
 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/f707360f-e029-4e25-9af2-e1efbd7d883d"> 
-</p>
-
 
 🧠**¿Qué es el Cáncer Cervical y por qué es tan importante?**🧠
 
 El cáncer cervical es un tipo de cáncer que se origina en el cuello del útero. Aproximadamente, ¡11,000 mujeres en los EE. UU. son diagnosticadas con esta enfermedad cada año! Ahora, ¿no es eso increíble?
 
-<p align="center" width="60%">
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/01ff8360-8041-4200-9561-5a41e6e1db01"> 
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/aec1b786-e341-422a-a7a6-89173f439d17"> 
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/b33d0c0b-2357-40ce-8d1a-8ebe353786f6"> 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/f707360f-e029-4e25-9af2-e1efbd7d883d"> 
 </p>
-<p align="center" width="60%">
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/01898572-8479-4f4f-b3c9-1cd825e0b186"> 
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/64adf1c8-9484-4249-a35b-9a2c3dee4518"> 
-    <img width="20%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/8dcf2abe-7893-4ea7-82ef-9cdc74e6d2bb"> 
-</p>
-
 
 
 💡**¿Por qué se da el Cáncer Cervical?**💡
 
 El principal culpable aquí es el virus del papiloma humano (HPV). La actividad sexual con una persona infectada es el factor de riesgo más importante para el HPV en adultos. ¡Así que la prevención es clave!
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/c8a55230-b359-4f04-b455-80e3348f8e67"> 
+</p>
+
+
 
 ## Explorando los Datos 🕵️‍♀️
 
