@@ -29,7 +29,7 @@ Este conjunto de datos es como el tesoro de la información médica y lo obtuvim
 El principal culpable aquí es el virus del papiloma humano (HPV). La actividad sexual con una persona infectada es el factor de riesgo más importante para el HPV en adultos. ¡Así que la prevención es clave!
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/c8a55230-b359-4f04-b455-80e3348f8e67"> 
+    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/c8a55230-b359-4f04-b455-80e3348f8e67"> 
 </p>
 
 
@@ -85,10 +85,8 @@ Aquí te dejo una descripción de cada variable en nuestro conjunto de datos:
 Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren entre los 20 y 30 años, ¡así que chicas jóvenes, la prevención es esencial! 💪
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/2162ff14-54d6-4734-abef-2d290409e292"> 
+    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/a5e73bbc-d4d4-4fbd-bef3-1fb5183bea24"> 
 </p>
-
-
 
 ## ¿Qué Hay en Este Repositorio?
 
@@ -104,11 +102,18 @@ Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren 
 
 - **`Validación Cruzada:`** para obtener estimaciones robustas del rendimiento del modelo, aprenderemos sobre la validación cruzada. ¡Una técnica esencial para maestros de datos intrépidos como tú!
 
+`Recuerda, el conocimiento es poder. ¡corramos a ver el codigo!`
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/ef6198dd-e239-479f-9039-7967b07062c9"> 
+</p>
+
+
 ## Próximos Pasos 🚀
 
 Esto es solo el comienzo. En futuros repositorios, profundizaremos en modelos predictivos y más. ¡Mantente al tanto!
 
-`Recuerda, el conocimiento es poder. ¡Hasta la próxima!`
+
 
 **¡Para obtener más información sobre el conjunto de datos, visita [Kaggle](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification/data)!**
 
