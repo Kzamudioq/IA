@@ -78,18 +78,23 @@ Aquí te dejo una descripción de cada variable en nuestro conjunto de datos:
 
 **Nota:** Las variables van desde datos numéricos hasta categóricos, por lo que será emocionante explorar cómo estas afectan el riesgo de cáncer cervical. ¡Sigue pendiente para más análisis!
 
-<p align="center" width="100%">
-    <img width="30%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/2162ff14-54d6-4734-abef-2d290409e292"> 
-</p>
+
 
 ## ¿Por qué es Importante?
 
 Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren entre los 20 y 30 años, ¡así que chicas jóvenes, la prevención es esencial! 💪
 
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/2162ff14-54d6-4734-abef-2d290409e292"> 
+</p>
+
 ## ¿Qué Hay en Este Repositorio?
 
 - **Análisis Exploratorio de Datos:** comencemos explorando la distribución de variables numéricas y categóricas. Los histogramas y gráficos de barras serán nuestras herramientas de elección para visualizar estas gemas de información. ¡Estamos a punto de descubrir patrones y secretos!
 - 
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/339151f1-e95a-4af1-81d3-f4c6f0f99322"> 
+
 - **Transformación de Variables:**  a veces, las variables necesitan un pequeño cambio para brillar. Analizaremos si alguna transformación es necesaria para nuestras variables. ¿Será necesario convertir algunas en variables dummy o estandarizar las numéricas? ¡Misterios por resolver!
 - **Análisis de Correlación:** desentrañaremos las relaciones entre las variables mediante la calculadora de la matriz de correlación. ¿Hay multicolinealidad o características altamente correlacionadas? Prepárate para descubrimientos fascinantes.
 - **Modelado y Evaluación:** aquí es donde las cosas se ponen emocionantes. Construiremos modelos de machine learning para predecir nuestra variable objetivo. Hablaremos de divisiones de conjunto de datos, selección de modelos y cómo evaluar su rendimiento. ¿Preparado para el desafío?
@@ -101,7 +106,7 @@ Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren 
 
 Esto es solo el comienzo. En futuros repositorios, profundizaremos en modelos predictivos y más. ¡Mantente al tanto!
 
-Recuerda, el conocimiento es poder. ¡Hasta la próxima!
+`Recuerda, el conocimiento es poder. ¡Hasta la próxima!`
 
 **¡Para obtener más información sobre el conjunto de datos, visita [Kaggle](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification/data)!**
 
