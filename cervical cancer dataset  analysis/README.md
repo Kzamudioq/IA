@@ -1,4 +1,4 @@
-@Kzamudio ¿Qué te parece el repositorio? ¡Está chido! :+1:
+@Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
   <p align="center">:star: Lisa Simpson te guía: Repositorio de cervical cancer risk factors analysis :star:</p>
