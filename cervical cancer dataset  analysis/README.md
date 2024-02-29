@@ -2,34 +2,16 @@
 
 
 ---
-''¡Hola, soy Lisa Simpson!''
+
+# ¡Hola, soy Lisa Simpson!
 
 ¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
-
-Este conjunto de datos es como el tesoro de la información médica y lo obtuvimos amablemente del Repositorio de UCI. 🏴‍☠️ 🌟
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/94d4e51e-2ba4-4ca8-973d-9d153c5d3cf8"> 
 </p>
 
-Este repositorio contiene un análisis detallado de los factores de riesgo para el cáncer cervical utilizando un conjunto de datos obtenido del UCI Repository y Kaggle.
-
-/notebooks
-    ├── 01_Exploracion_Datos.ipynb
-    ├── 02_Transformacion_Variables.ipynb
-    ├── 03_Analisis_Correlacion.ipynb
-    ├── 04_Modelado_Evaluacion.ipynb
-    ├── 05_Manejo_Datos_Desbalanceados.ipynb
-    ├── 06_Validacion_Cruzada.ipynb
-
-## Contenido
-
-1. Exploración de Datos
-2. Transformación de Variables
-3. Análisis de Correlación
-4. Modelado y Evaluación
-5. Manejo de Datos Desbalanceados
-6. Validación Cruzada
+Este conjunto de datos es como el tesoro de la información médica y lo obtuvimos amablemente del Repositorio de UCI. 🏴‍☠️
 
 ## Acerca del Cáncer Cervical
 
@@ -58,5 +40,6 @@ Esto es solo el comienzo. En futuros repositorios, profundizaremos en modelos pr
 
 Recuerda, el conocimiento es poder. ¡Hasta la próxima!
 
+**¡Para obtener más información sobre el conjunto de datos, visita [Kaggle](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification/data)!**
 
 
