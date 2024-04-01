@@ -137,44 +137,19 @@ lda_report = classification_report(y_test, lda_predictions)
 ### Las Métricas! 🏆
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/Kzamudioq/IA/assets/138271936/284d49e4-4115-4367-be0f-2cc9b9d2938a"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/3a1ebb40-93d4-4803-a37e-f870c81b242c"> 
 </p>
-
 
 Ahora, la parte que realmente importa, ¿no crees? Aquí tienes las métricas de los modelos, como si fueran los puestos en una competencia de skate:
 
-#### Random Forest:
-
-- **Clase 0:**
-  - Precision: 0.93
-  - Recall: 0.94
-  - F1-score: 0.93
-- **Clase 1:**
-  - Precision: 0.76
-  - Recall: 0.72
-  - F1-score: 0.74
-
-#### Regresión Logística:
-- **Clase 0:**
-  - Precision: 0.90
-  - Recall: 0.76
-  - F1-score: 0.82
-- **Clase 1:**
-  - Precision: 0.50
-  - Recall: 0.74
-  - F1-score: 0.60
- 
-
-#### LDA:
-
-- **Clase 0:**
-  - Precision: 0.90
-  - Recall: 0.78
-  - F1-score: 0.84
-- **Clase 1:**
-  - Precision: 0.53
-  - Recall: 0.74
-  - F1-score: 0.62
+| Modelo               | Clase | Precision | Recall | F1-score |
+|----------------------|-------|-----------|--------|----------|
+| Random Forest        | 0     | 0.93      | 0.94   | 0.93     |
+| Random Forest        | 1     | 0.76      | 0.72   | 0.74     |
+| Regresión Logística  | 0     | 0.90      | 0.76   | 0.82     |
+| Regresión Logística  | 1     | 0.50      | 0.74   | 0.60     |
+| LDA                  | 0     | 0.90      | 0.78   | 0.84     |
+| LDA                  | 1     | 0.53      | 0.74   | 0.62     |
 
 ## Próximos Pasos 🚀
 
