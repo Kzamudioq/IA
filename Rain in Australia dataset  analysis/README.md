@@ -15,10 +15,10 @@
 
 ¡Ey, man! Bienvenido a este proyecto loco donde estamos tratando de predecir el clima en Australia, mediate una base de datos extensa. Prepárate para una aventura salvaje en el mundo de los datos y los modelos de aprendizaje automático. ¡Es como una montaña rusa, pero para tus neuronas!
 
-## 🧠 **¿Qué Rayos es Este Proyecto?** 
+## 🧠 **¿Qué rayos es este proyecto?** 
 
 
-Aquí tienes la primicia: estamos tratando de ser los más listos de la clase prediciendo el clima. Estamos usando datos de los aeropuertos de Australia y alimentándolos a nuestros modelos de aprendizaje automático para ver si pueden adivinar qué tiempo va a hacer el dia de mañana. ¡Es como una apuesta, pero con datos!
+Aquí tienes la primicia: estamos tratando de ser los más listos de la clase prediciendo el clima, estamos usando datos de los aeropuertos de Australia y alimentándolos a nuestros modelos de aprendizaje automático para ver si pueden adivinar qué tiempo va a hacer el dia de mañana. ¡Es como una apuesta, pero con datos!
 
 
 ## 💡 **Características Molonas** 💡
