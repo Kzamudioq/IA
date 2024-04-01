@@ -147,14 +147,14 @@ lda_report = classification_report(y_test, lda_predictions)
 
 Ahora, la parte que realmente importa, ¿no crees? Aquí tienes las métricas de los modelos, como si fueran los puestos en una competencia de skate:
 
-                                                           | Modelo               | Clase | Precision | Recall | F1-score |
-                                                           |----------------------|-------|-----------|--------|----------|
-                                                           | Random Forest        | 0     | 0.93      | 0.94   | 0.93     |
-                                                           | Random Forest        | 1     | 0.76      | 0.72   | 0.74     |
-                                                           | Regresión Logística  | 0     | 0.90      | 0.76   | 0.82     |
-                                                           | Regresión Logística  | 1     | 0.50      | 0.74   | 0.60     |
-                                                           | LDA                  | 0     | 0.90      | 0.78   | 0.84     |
-                                                           | LDA                  | 1     | 0.53      | 0.74   | 0.62     |
+                                           | Modelo               | Clase | Precision | Recall | F1-score |
+                                           |----------------------|-------|-----------|--------|----------|
+                                           | Random Forest        | 0     | 0.93      | 0.94   | 0.93     |
+                                           | Random Forest        | 1     | 0.76      | 0.72   | 0.74     |
+                                           | Regresión Logística  | 0     | 0.90      | 0.76   | 0.82     |
+                                           | Regresión Logística  | 1     | 0.50      | 0.74   | 0.60     |
+                                           | LDA                  | 0     | 0.90      | 0.78   | 0.84     |
+                                           | LDA                  | 1     | 0.53      | 0.74   | 0.62     |
 
 ## Próximos Pasos 🚀
 
