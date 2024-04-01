@@ -20,6 +20,10 @@
 
 Aquí tienes la primicia: estamos tratando de ser los más listos de la clase prediciendo el clima, estamos usando datos de los aeropuertos de Australia y alimentándolos a nuestros modelos de aprendizaje automático para ver si pueden adivinar qué tiempo va a hacer el dia de mañana. ¡Es como una apuesta, pero con datos!
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/b5193987-3d43-4213-bca6-f8f384d2fb1b"> 
+</p>
+
 
 ## 💡 **Características Molonas** 💡
 
