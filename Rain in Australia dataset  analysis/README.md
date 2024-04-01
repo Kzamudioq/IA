@@ -47,7 +47,7 @@ from sklearn.metrics import classification_report
 Luego, metemos los datos en la batidora, aquí estamos cargando los datos del clima, ¡eso es lo que necesitamos para hacer magia! [Kaggle Rain in Australia - Predict next-day rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download)
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/8bcb4246-2399-46c6-9629-bff242b0dcdb"> 
+    <img width="100%" src="https://github.com/Kzamudioq/IA/assets/138271936/8bcb4246-2399-46c6-9629-bff242b0dcdb"> 
 </p>
 
 
@@ -91,7 +91,7 @@ outlier_diagnostic_plots(DataDarwin_missing, 'Evaporation')
 ```
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/e0472fc2-dd1e-4cda-a440-2c2637786a72"> 
+    <img width="100%" src="https://github.com/Kzamudioq/IA/assets/138271936/e0472fc2-dd1e-4cda-a440-2c2637786a72"> 
 </p>
 
 
@@ -137,7 +137,7 @@ lda_report = classification_report(y_test, lda_predictions)
 ### Las Métricas! 🏆
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/284d49e4-4115-4367-be0f-2cc9b9d2938a"> 
+    <img width="100%" src="https://github.com/Kzamudioq/IA/assets/138271936/284d49e4-4115-4367-be0f-2cc9b9d2938a"> 
 </p>
 
 
