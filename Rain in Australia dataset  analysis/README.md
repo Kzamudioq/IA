@@ -1,11 +1,11 @@
 @Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
-  <p align="center">:star: Marge Simpson te guía: Repositorio de cervical cancer risk factors analysis :star:</p>
+  <p align="center">:star: Bart Simpson te guía: Repositorio de predicción del clima en Australia, Man! :star:</p>
 </h1>
 
 
-`¡Hola, soy Marge Simpson!`
+`¡Hola, soy Bart Simpson!`
 
 ¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
 
@@ -13,29 +13,46 @@
     <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/71d33894-4482-40a6-9848-3cac38c7bdd1"> 
 </p>
 
-Este conjunto de datos es como el tesoro de la información médica y lo obtuvimos amablemente del Repositorio de UCI. 🏴‍☠️
+¡Ey, man! Bienvenido a este proyecto loco donde estamos tratando de predecir el clima en Australia, mediate una base de datos extensa. Prepárate para una aventura salvaje en el mundo de los datos y los modelos de aprendizaje automático. ¡Es como una montaña rusa, pero para tus neuronas!
 
-## Acerca del Cáncer Cervical
-
-
-🧠**¿Qué es el Cáncer Cervical y por qué es tan importante?**🧠
-
-¡Oh, el cáncer cervical! Es como una película de terror, pero no te preocupes, estoy aquí para explicarte. Este es un tipo de cáncer que aparece en el cuello del útero. Cada año, aproximadamente 11,000 mujeres en los EE. UU. descubren que tienen este problema. Sí, es un número bastante alto.
+## 🧠 **¿Qué Rayos es Este Proyecto?** 
 
 
-
-💡**¿Por qué se da el Cáncer Cervical?**💡
-
-El principal culpable aquí es el virus del papiloma humano (HPV). La actividad sexual con una persona infectada es el factor de riesgo más importante para el HPV en adultos. ¡Así que la prevención es clave!
-
-<p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/c8a55230-b359-4f04-b455-80e3348f8e67"> 
-</p>
+Aquí tienes la primicia: estamos tratando de ser los más listos de la clase prediciendo el clima. Estamos usando datos de los aeropuertos de Australia y alimentándolos a nuestros modelos de aprendizaje automático para ver si pueden adivinar qué tiempo va a hacer el dia de mañana. ¡Es como una apuesta, pero con datos!
 
 
-## 🌐Explorando los Datos 🌐
+💡 **Características Molonas** 💡
 
-En este repositorio, nos zambullimos en el fascinante mundo de las edades y las variables categóricas. Hicimos algunos gráficos chulos para entender mejor la distribución de las edades y los hábitos como fumar. ¡No te preocupes, estamos haciendo ciencia aquí! 📊
+Vamos a hablar de las cosas geniales que estamos haciendo aquí:
+
+1. Modelos Alucinantes: hemos lanzado toda la artillería pesada: Random Forest, Regresión Logística, LDA. Estos modelos son como los superhéroes de la predicción del tiempo. ¡Prepárate para verlos en acción!
+
+2.Datos Enloquecidos: antes de alimentar a nuestros modelos con datos, tenemos que hacerles una manicura de datos. Eso significa limpiarlos, normalizarlos y prepararlos para la batalla. ¡No hay lugar para datos desordenados en este proyecto!
+
+## Paso 1: Preparación 🚀
+
+Primero las primeras, ¿sabes? Importamos las herramientas necesarias, como pandas para manejar los datos, sklearn para entrenar los modelos y algunas otras cosas más.
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.metrics import classification_report
+```
+## Paso 2: Carga de Datos 📊
+
+Luego, metemos los datos en la batidora, aquí estamos cargando los datos del clima, ¡eso es lo que necesitamos para hacer magia! [Kaggle Rain in Australia - Predict next-day rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download)
+
+![image](https://github.com/Kzamudioq/IA/assets/138271936/8bcb4246-2399-46c6-9629-bff242b0dcdb)
+
+
+```python
+Data = pd.read_csv('weatherAUS.csv')
+print('Tamaño del dataset :', Data.shape)
+```
 
 Aquí te dejo una descripción de cada variable en nuestro conjunto de datos:
 
