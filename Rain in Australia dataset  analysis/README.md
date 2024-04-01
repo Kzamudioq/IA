@@ -21,7 +21,7 @@
 Aquí tienes la primicia: estamos tratando de ser los más listos de la clase prediciendo el clima. Estamos usando datos de los aeropuertos de Australia y alimentándolos a nuestros modelos de aprendizaje automático para ver si pueden adivinar qué tiempo va a hacer el dia de mañana. ¡Es como una apuesta, pero con datos!
 
 
-##💡 **Características Molonas** 💡
+## 💡 **Características Molonas** 💡
 
 Vamos a hablar de las cosas geniales que estamos haciendo aquí:
 
