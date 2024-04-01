@@ -25,9 +25,9 @@ Aquí tienes la primicia: estamos tratando de ser los más listos de la clase pr
 
 Vamos a hablar de las cosas geniales que estamos haciendo aquí:
 
-1. Modelos Alucinantes: hemos lanzado toda la artillería pesada: Random Forest, Regresión Logística, LDA. Estos modelos son como los superhéroes de la predicción del tiempo. ¡Prepárate para verlos en acción!
+1. Modelos alucinantes: hemos lanzado toda la artillería pesada: Random Forest, Regresión Logística, LDA. Estos modelos son como los superhéroes de la predicción del tiempo. ¡Prepárate para verlos en acción!
 
-2. Datos Enloquecidos: antes de alimentar a nuestros modelos con datos, tenemos que hacerles una manicura de datos. Eso significa limpiarlos, normalizarlos y prepararlos para la batalla. ¡No hay lugar para datos desordenados en este proyecto!
+2. Datos del clima: antes de alimentar a nuestros modelos con datos, tenemos que hacerles una manicura de datos. Eso significa limpiarlos, normalizarlos y prepararlos para la batalla. ¡No hay lugar para datos desordenados en este proyecto!
 
 ### Paso 1: Preparación 🚀
 
