@@ -7,7 +7,7 @@
 
 `¡Hola, soy Bart Simpson!`
 
-¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
+
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/66d219c8-e5f3-4040-8602-01874c9a4f05"> 
