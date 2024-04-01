@@ -10,7 +10,7 @@
 ¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/71d33894-4482-40a6-9848-3cac38c7bdd1"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/66d219c8-e5f3-4040-8602-01874c9a4f05"> 
 </p>
 
 ¡Ey, man! Bienvenido a este proyecto loco donde estamos tratando de predecir el clima en Australia, mediate una base de datos extensa. Prepárate para una aventura salvaje en el mundo de los datos y los modelos de aprendizaje automático. ¡Es como una montaña rusa, pero para tus neuronas!
