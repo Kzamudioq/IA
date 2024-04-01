@@ -137,8 +137,9 @@ lda_report = classification_report(y_test, lda_predictions)
 ### Las Métricas! 🏆
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/3a1ebb40-93d4-4803-a37e-f870c81b242c"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/5dda83b5-045c-42e6-a6d7-f1a8ac7f83b8"> 
 </p>
+
 
 Ahora, la parte que realmente importa, ¿no crees? Aquí tienes las métricas de los modelos, como si fueran los puestos en una competencia de skate:
 
