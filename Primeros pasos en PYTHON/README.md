@@ -24,7 +24,7 @@ print("¡Hola, mundo!")
 Google Colab es como nuestro laboratorio secreto en la nube, donde puedes escribir y ejecutar código Python con tus amigos. Lo mejor de todo es que ¡es gratis! ¡Simplemente haz clic en "Nuevo cuaderno" y listo! 📒
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/21dfcd84-26e7-45f8-8ef8-9bac1ae5de61"> 
+    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/21dfcd84-26e7-45f8-8ef8-9bac1ae5de61"> 
 </p>
 
 
@@ -152,6 +152,10 @@ Copy code
 - Documentación oficial de Python: [¡Haz clic aquí!](https://docs.python.org/es/3/)
 - Tutoriales en línea: ¡Plataformas como Coursera, Udemy y YouTube tienen muchos cursos para que sigas aprendiendo!
 - Libros recomendados: "Python Crash Course" de Eric Matthes, "Automate the Boring Stuff with Python" de Al Sweigart, ¡y muchos más!
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/4f7d618a-f851-4abd-8b44-1cd9a57800d5"> 
+</p>
 
 ¡Esperamos que hayas disfrutado de esta aventura con los Minions y que te hayas divertido mucho aprendiendo Python! 🎉🍌 ¡Hasta la próxima! 👋
 
