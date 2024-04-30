@@ -4,116 +4,156 @@
   <p align="center">🍌 Introducción a Python con los Minions 🐒</p>
 </h1>
 
-
-`¡Hola, soy Marge Simpson!`
-
-¡Bienvenidos al Repositorio del Análisis de Riesgo de Cáncer Cervical!
+¡Hola, hola! Somos los Minions y hoy te vamos a introducir al maravilloso mundo de Python 🎉. ¡Prepárate para una aventura llena de diversión y código!
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/71d33894-4482-40a6-9848-3cac38c7bdd1"> 
-</p>
-
-Este conjunto de datos es como el tesoro de la información médica y lo obtuvimos amablemente del Repositorio de UCI. 🏴‍☠️
-
-## Acerca del Cáncer Cervical
-
-
-🧠**¿Qué es el Cáncer Cervical y por qué es tan importante?**🧠
-
-¡Oh, el cáncer cervical! Es como una película de terror, pero no te preocupes, estoy aquí para explicarte. Este es un tipo de cáncer que aparece en el cuello del útero. Cada año, aproximadamente 11,000 mujeres en los EE. UU. descubren que tienen este problema. Sí, es un número bastante alto.
-
-
-
-💡**¿Por qué se da el Cáncer Cervical?**💡
-
-El principal culpable aquí es el virus del papiloma humano (HPV). La actividad sexual con una persona infectada es el factor de riesgo más importante para el HPV en adultos. ¡Así que la prevención es clave!
-
-<p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/c8a55230-b359-4f04-b455-80e3348f8e67"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/072c1b1f-f663-4e15-8817-8af36b61b48c"> 
 </p>
 
 
-## 🌐Explorando los Datos 🌐
+## 🌟 Python: ¡El Lenguaje de la Gente Inteligente! 🌟
 
-En este repositorio, nos zambullimos en el fascinante mundo de las edades y las variables categóricas. Hicimos algunos gráficos chulos para entender mejor la distribución de las edades y los hábitos como fumar. ¡No te preocupes, estamos haciendo ciencia aquí! 📊
+Python es un lenguaje de programación súper chévere que puede hacer de todo. ¿Sabías que es conocido por su sintaxis limpia y legible? ¡Sí, sí, como nosotros cuando estamos felices!
 
-Aquí te dejo una descripción de cada variable en nuestro conjunto de datos:
+```python
+print("¡Hola, mundo!")
+```
 
-1. **Age:** Edad de las mujeres en estudio.
-2. **Number of sexual partners:** Número de parejas sexuales.
-3. **First sexual intercourse:** Edad en la que tuvieron su primera relación sexual.
-4. **Num of pregnancies:** Número de embarazos.
-5. **Smokes:** Si fuman o no.
-6. **Smokes (years):** Años de tabaquismo.
-7. **Smokes (packs/year):** Paquetes de cigarrillos por año.
-8. **Hormonal Contraceptives:** Uso de anticonceptivos hormonales.
-9. **Hormonal Contraceptives (years):** Años de uso de anticonceptivos hormonales.
-10. **IUD:** Uso de dispositivo intrauterino.
-11. **IUD (years):** Años de uso de dispositivo intrauterino.
-12. **STDs:** Si tienen enfermedades de transmisión sexual.
-13. **STDs (number):** Número de enfermedades de transmisión sexual.
-14. **STDs:condylomatosis:** Condilomas.
-15. **STDs:cervical condylomatosis:** Condilomas cervicales.
-16. **STDs:vaginal condylomatosis:** Condilomas vaginales.
-17. **STDs:vulvo-perineal condylomatosis:** Condilomas vulvo-perineales.
-18. **STDs:syphilis:** Sífilis.
-19. **STDs:pelvic inflammatory disease:** Enfermedad inflamatoria pélvica.
-20. **STDs:genital herpes:** Herpes genital.
-21. **STDs:molluscum contagiosum:** Molluscum contagioso.
-22. **STDs:AIDS:** VIH/SIDA.
-23. **STDs:HIV:** VIH.
-24. **STDs:Hepatitis B:** Hepatitis B.
-25. **STDs:HPV:** Virus del papiloma humano.
-26. **STDs: Number of diagnosis:** Número de diagnósticos de enfermedades de transmisión sexual.
-27. **STDs: Time since first diagnosis:** Tiempo desde el primer diagnóstico.
-28. **STDs: Time since last diagnosis:** Tiempo desde el último diagnóstico.
-29. **Dx:Cancer:** Diagnóstico de cáncer.
-30. **Dx:CIN:** Diagnóstico de neoplasia intraepitelial cervical.
-31. **Dx:HPV:** Diagnóstico de virus del papiloma humano.
-32. **Dx:** Diagnóstico general.
-33. **Hinselmann:** Resultado del test de Hinselmann.
-34. **Schiller:** Resultado del test de Schiller.
-35. **Citology:** Resultado de la citología.
-36. **Biopsy:** Resultado de la biopsia.
+## 🚀 Configuración de Google Colab: ¡Vuela Alto con Nosotros! 🚀
 
-**Nota:** Las variables van desde datos numéricos hasta categóricos, por lo que será emocionante explorar cómo estas afectan el riesgo de cáncer cervical. ¡Sigue pendiente para más análisis!
-
-
-
-## ¿Por qué es Importante?
-
-Bueno, resulta que la detección temprana es clave. El 15% de los casos ocurren entre los 20 y 30 años, ¡así que chicas jóvenes, la prevención es esencial! 💪
+Google Colab es como nuestro laboratorio secreto en la nube, donde puedes escribir y ejecutar código Python con tus amigos. Lo mejor de todo es que ¡es gratis! ¡Simplemente haz clic en "Nuevo cuaderno" y listo! 📒
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/a5e73bbc-d4d4-4fbd-bef3-1fb5183bea24"> 
-</p>
-
-## ¿Qué Hay en Este Repositorio?
-
-- **`Análisis Exploratorio de Datos:`** comencemos explorando la distribución de variables numéricas y categóricas. Los histogramas y gráficos de barras serán nuestras herramientas de elección para visualizar estas gemas de información. ¡Estamos a punto de descubrir patrones y secretos!
-  
-- **`Transformación de Variables:`**  a veces, las variables necesitan un pequeño cambio para brillar. Analizaremos si alguna transformación es necesaria para nuestras variables. ¿Será necesario convertir algunas en variables dummy o estandarizar las numéricas? ¡Misterios por resolver!
-  
-- **`Análisis de Correlación:`** desentrañaremos las relaciones entre las variables mediante la calculadora de la matriz de correlación. ¿Hay multicolinealidad o características altamente correlacionadas? Prepárate para descubrimientos fascinantes.
-  
-- **`Modelado y Evaluación:`** aquí es donde las cosas se ponen emocionantes. Construiremos modelos de machine learning para predecir nuestra variable objetivo. Hablaremos de divisiones de conjunto de datos, selección de modelos y cómo evaluar su rendimiento. ¿Preparado para el desafío?
-  
-- **`Manejo de Datos Desbalanceados:`** si la variable objetivo está desequilibrada, no te preocupes. Discutiremos estrategias como el muestreo estratificado y métricas de evaluación adecuadas para enfrentar este desafío.
-
-- **`Validación Cruzada:`** para obtener estimaciones robustas del rendimiento del modelo, aprenderemos sobre la validación cruzada. ¡Una técnica esencial para maestros de datos intrépidos como tú!
-
-`Recuerda, el conocimiento es poder. ¡corramos a ver el codigo!`
-
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/Kzamudioq/IA/assets/138271936/ef6198dd-e239-479f-9039-7967b07062c9"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/21dfcd84-26e7-45f8-8ef8-9bac1ae5de61"> 
 </p>
 
 
-## Próximos Pasos 🚀
+## 🐍 Sintaxis Básica de Python: Aprende con los Minions 🍌
 
-Esto es solo el comienzo. En futuros repositorios, profundizaremos en modelos predictivos y más. ¡Mantente al tanto!
+¡Vamos a aprender sobre variables y tipos de datos! Observa cómo hacemos cálculos con nuestras bananas 🍌.
+
+```python
+x = 10
+y = 3.14
+nombre = "Juan"
+lista = [1, 2, 3]
+diccionario = {"clave": "valor"}
+
+suma = x + y
+resta = x - y
+multiplicacion = x * y
+division = x / y
+
+print(suma, resta, multiplicacion, division)
+```
+
+## 🎯 Estructuras de Control: ¡Síguenos el Ritmo! 🎶
+
+Aquí te enseñaremos cómo tomar decisiones y hacer cosas muchas veces. ¡Es como seguir el baile de la banana!
+
+```python
+if x > 5:
+    print("x es mayor que 5")
+elif x == 5:
+    print("x es igual a 5")
+else:
+    print("x es menor que 5")
+
+for i in range(5):
+    print(i)
+
+while x > 0:
+    print(x)
+    x -= 1
+```
+
+## 🤖 Funciones: ¡Minionizando el Código! 🛠️
+
+¡Aprende a dividir tu código en pequeñas partes para que sea más fácil de entender! ¡Es como armar un robot con piezas de LEGO!
+
+```python
+def suma(a, b):
+    return a + b
+
+resultado = suma(3, 5)
+print(resultado)
+```
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/99c19243-289e-416e-b7f4-98b75f5dbd1a"> 
+</p>
+
+## 📚 Listas y Bucles: Explorando con los Minions 🌍
+Descubre cómo trabajar con listas y repetir tareas una y otra vez. ¡Es como explorar nuevas tierras en busca de la banana perfecta!
+
+```python
+numeros = [1, 2, 3, 4, 5]
+
+for numero in numeros:
+    print(numero)
+
+suma_numeros = sum(numeros)
+print("La suma de los números es:", suma_numeros)
+```
+
+## 🗃️ Diccionarios: ¡El Tesoro de los Minions! 🏝️
+Aprende a guardar tus tesoros en diccionarios y acceder a ellos cuando los necesites. ¡Es como encontrar un montón de bananas escondidas en una isla!
+
+```python
+persona = {"nombre": "Juan", "edad": 30, "ciudad": "México"}
+
+print(persona["nombre"])
+print(persona["edad"])
+print(persona["ciudad"])
+```
+## 🎨 Ejemplos Prácticos: ¡Diviértete con los Minions! 🎉
+¡Vamos a jugar con algunos ejemplos prácticos! Calcula el promedio de tus bananas o cuenta cuántas veces aparece la palabra "banana" en un libro de Minion.
 
 
+```python
+Copy code
+numeros = [10, 20, 30, 40, 50]
+promedio = sum(numeros) / len(numeros)
+print("El promedio de la lista es:", promedio)
 
-**¡Para obtener más información sobre el conjunto de datos, visita [Kaggle](https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification/data)!**
+texto = "Este es un ejemplo de texto. Este texto tiene palabras repetidas."
+palabras = texto.split()
+frecuencia = {}
+for palabra in palabras:
+    if palabra in frecuencia:
+        frecuencia[palabra] += 1
+    else:
+        frecuencia[palabra] = 1
+print("Frecuencia de palabras:", frecuencia)
+```
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/464cbad3-09b1-419e-881c-b978b207f0e7"> 
+</p>
+
+
+## 📦 Librerías Populares: ¡Explora con los Minions! 🌐
+¡Descubre el mundo de NumPy y Pandas, las herramientas perfectas para hacer magia con tus datos! ¡Es como tener un montón de nuevas bananas para jugar!
+
+```python
+Copy code
+# Instalación de NumPy
+!pip install numpy
+```
+
+# Instalación de Pandas
+!pip install pandas
+
+
+## 📚 Recursos Adicionales: ¡Sigue Aprendiendo con los Minions! 📚
+
+¡Aquí tienes algunos recursos adicionales para seguir aprendiendo sobre Python! ¡Es como tener un mapa del tesoro para encontrar más bananas!
+
+- Documentación oficial de Python: [¡Haz clic aquí!](https://docs.python.org/es/3/)
+- Tutoriales en línea: ¡Plataformas como Coursera, Udemy y YouTube tienen muchos cursos para que sigas aprendiendo!
+- Libros recomendados: "Python Crash Course" de Eric Matthes, "Automate the Boring Stuff with Python" de Al Sweigart, ¡y muchos más!
+
+¡Esperamos que hayas disfrutado de esta aventura con los Minions y que te hayas divertido mucho aprendiendo Python! 🎉🍌 ¡Hasta la próxima! 👋
+
+
 
