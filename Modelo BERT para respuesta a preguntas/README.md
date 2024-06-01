@@ -94,7 +94,7 @@ print("Respuesta del chatbot:", answer)
 ### Ejemplo 2: Cambio Climático 🌍
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/266989f9-f566-44e8-8f5f-de2b4130398f"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/266989f9-f566-44e8-8f5f-de2b4130398f"> 
 </p>
 
 
