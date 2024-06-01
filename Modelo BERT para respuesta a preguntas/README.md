@@ -11,7 +11,7 @@
 
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
 </p>
 
 
@@ -94,7 +94,7 @@ print("Respuesta del chatbot:", answer)
 ### Ejemplo 2: Cambio Climático 🌍
 
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/Kzamudioq/IA/assets/138271936/063935b9-5184-4620-a3e7-98d315a1a6a7"> 
+    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/063935b9-5184-4620-a3e7-98d315a1a6a7"> 
 </p>
 
 ```python
