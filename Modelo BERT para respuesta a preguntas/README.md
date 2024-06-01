@@ -1,7 +1,7 @@
 @Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
-  <p align="center">:star: Sistema de Preguntas y Respuestas con BERT! :star:</p>
+  <p align="center">:star: Sistema de preguntas y respuestas con BERT! :star:</p>
 </h1>
 
 
@@ -11,7 +11,7 @@
 
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/66d219c8-e5f3-4040-8602-01874c9a4f05"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
 </p>
 
 
@@ -92,6 +92,11 @@ print("Respuesta del chatbot:", answer)
 ```
 
 ### Ejemplo 2: Cambio Climático 🌍
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
+</p>
+
 
 ```python
 context = """
