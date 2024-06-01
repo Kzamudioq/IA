@@ -11,7 +11,7 @@
 
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
+    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
 </p>
 
 
