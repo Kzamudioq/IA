@@ -94,7 +94,7 @@ print("Respuesta del chatbot:", answer)
 ### Ejemplo 2: Cambio Climático 🌍
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/063935b9-5184-4620-a3e7-98d315a1a6a7"> 
+    <img width="20%" src="https://github.com/Kzamudioq/IA/assets/138271936/063935b9-5184-4620-a3e7-98d315a1a6a7"> 
 </p>
 
 ```python
@@ -113,8 +113,6 @@ print("Respuesta del chatbot:", answer)
 # Salida: un problema complejo que involucra varias causas
 
 ```
-
-## 📜 Licencia
 
 ## 📜 Licencia
 
