@@ -6,6 +6,9 @@
 
 ¡Bello! ¡Bienvenido a nuestro proyecto de clasificación de imágenes usando redes neuronales convolucionales (CNN)! 🚀🎉
 
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/a51062bf-5ee8-4d2a-82c8-70d72d0cfb54"> 
+</p>
 
 ## ¿Qué son las Redes Neuronales Convolucionales (CNN)? 🤔📚
 
