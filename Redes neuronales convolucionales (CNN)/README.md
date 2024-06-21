@@ -1,123 +1,135 @@
 @Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
-  <p align="center">:star: Sistema de preguntas y respuestas con BERT! :star:</p>
+  <p align="center">:star:  Clasificador de Imágenes con Redes Neuronales Convolucionales (CNN) :star:</p>
 </h1>
 
-
-`¡Hola, soy Stuart Minions!`
-
-¡Hola, minions! 👋 Este repositorio tiene una forma divertida de hacer que la computadora responda preguntas usando BERT, que es una tecnología muy avanzada (¡más avanzada que las bananas! 🍌). Usamos la biblioteca `transformers` de Hugging Face y un modelo BERT que ya ha sido entrenado con muchas preguntas y respuestas del conjunto de datos SQuAD.
-
+¡Bello! ¡Bienvenido a nuestro proyecto de clasificación de imágenes usando redes neuronales convolucionales (CNN)! 🚀🎉
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/62b8018f-e03e-447e-abea-1802d3417ff7"> 
+    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/a51062bf-5ee8-4d2a-82c8-70d72d0cfb54"> 
 </p>
 
+## ¿Qué son las Redes Neuronales Convolucionales (CNN)? 🤔📚
 
-## 📚 Tabla de Contenidos
+Las Redes Neuronales Convolucionales (CNN) son un tipo de red neuronal especialmente efectiva para procesar datos con una estructura de cuadrícula, como las imágenes. 🍌🎨
 
-- [🚀 Instalación](#🚀-instalación)
-- [🛠️ Uso](#🛠️-uso)
-- [🔍 Funcionalidad](#🔍-funcionalidad)
-- [📝 Ejemplos](#📝-ejemplos)
-- [📜 Licencia](#📜-licencia)
+### ¿Cómo funcionan? 🧐🔬
 
-## 🚀 Instalación
+1. **Capas Convolucionales**: Detectan características locales de la imagen, como bordes y texturas, aplicando filtros de convolución. 🕵️‍♂️🔍
+2. **Capas de Pooling**: Reducen la dimensionalidad de los datos, manteniendo las características más importantes. Es como hacer zoom out en la imagen. 📉🔍
+3. **Capas Densas**: Conectan todas las neuronas y permiten la clasificación final de la imagen. 🤝🔗
 
-Primero, necesitamos instalar algunas cosas para que todo funcione. ¡Usa este comando mágico! 🪄
+## Nuestro Proyecto 🎯🏗️
 
-```python
-pip install torch transformers
-```
+Vamos a entrenar un modelo CNN para clasificar imágenes de dígitos escritos a mano usando el famoso conjunto de datos MNIST. ✏️🔢
 
-## 🛠️ Uso
-Aquí te mostramos cómo usar este sistema para hacer preguntas y obtener respuestas. ¡Es como magia! ✨
-
-### Inicializando el tokenizador y el modelo
-
-Primero, necesitamos iniciar nuestro modelo de BERT y el tokenizador (que es como un traductor para que BERT entienda nuestras preguntas) 📖:
+## Código del Proyecto 📝🐼
 
 ```python
-from transformers import BertTokenizer, BertForQuestionAnswering
+# Instalación de TensorFlow (si no está instalado)
+!pip install tensorflow
 
-tokenizer = BertTokenizer.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
-model = BertForQuestionAnswering.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
+# Importar las librerías necesarias
+import tensorflow as tf
+from tensorflow.keras import layers, models
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Cargar el conjunto de datos MNIST (números escritos a mano)
+mnist = tf.keras.datasets.mnist
+(train_images, train_labels), (test_images, test_labels) = mnist.load_data()
+
+# Normalizar las imágenes
+train_images, test_images = train_images / 255.0, test_images / 255.0
+
+# Definir el modelo de red neuronal convolucional
+model = models.Sequential([
+    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(28, 28, 1)),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(64, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(64, (3, 3), activation='relu'),
+    layers.Flatten(),
+    layers.Dense(64, activation='relu'),
+    layers.Dense(10, activation='softmax')
+])
+
+# Compilar el modelo
+model.compile(optimizer='adam',
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+# Añadir una dimensión para el canal de color (escala de grises)
+train_images = train_images[..., np.newaxis]
+test_images = test_images[..., np.newaxis]
+
+# Entrenar el modelo
+history = model.fit(train_images, train_labels, epochs=5, 
+                    validation_data=(test_images, test_labels))
+
+# Evaluar el modelo
+test_loss, test_acc = model.evaluate(test_images, test_labels)
+
+print('Test accuracy:', test_acc)
+
+# Función para mostrar imágenes y predicciones
+def plot_image(i, predictions_array, true_label, img):
+    predictions_array, true_label, img = predictions_array[i], true_label[i], img[i]
+    plt.grid(False)
+    plt.xticks([])
+    plt.yticks([])
+
+    plt.imshow(img, cmap=plt.cm.binary)
+
+    predicted_label = np.argmax(predictions_array)
+    if predicted_label == true_label:
+        color = 'blue'
+    else:
+        color = 'red'
+
+    plt.xlabel("{} {:2.0f}% ({})".format(predicted_label,
+                                         100 * np.max(predictions_array),
+                                         true_label),
+               color=color)
+
+# Mostrar una imagen con sus predicciones
+def plot_value_array(i, predictions_array, true_label):
+    predictions_array, true_label = predictions_array[i], true_label[i]
+    plt.grid(False)
+    plt.xticks(range(10))
+    plt.yticks([])
+    thisplot = plt.bar(range(10), predictions_array, color="#777777")
+    plt.ylim([0, 1])
+    predicted_label = np.argmax(predictions_array)
+
+    thisplot[predicted_label].set_color('red')
+    thisplot[true_label].set_color('blue')
+
+# Hacer predicciones
+predictions = model.predict(test_images)
+
+# Seleccionar una imagen de prueba
+img_index = 0
+plt.figure(figsize=(6,3))
+plt.subplot(1,2,1)
+plot_image(img_index, predictions, test_labels, test_images.squeeze())
+plt.subplot(1,2,2)
+plot_value_array(img_index, predictions,  test_labels)
+plt.show()
 ```
-### Definiendo la función de preguntas y respuestas
 
-Ahora, definimos una función especial que tomará nuestra pregunta y el contexto y nos dará una respuesta 💡:
+## Pasos para ejecutar el código 🏃‍♂️💻
 
-```python
-import torch
-
-def ask_question(question, context):
-    inputs = tokenizer.encode_plus(question, context, return_tensors="pt", add_special_tokens=True)
-    input_ids = inputs["input_ids"].tolist()[0]
-
-    outputs = model(**inputs)
-    start_scores = outputs.start_logits
-    end_scores = outputs.end_logits
-
-    answer_start = torch.argmax(start_scores)
-    answer_end = torch.argmax(end_scores) + 1
-
-    answer = tokenizer.convert_tokens_to_string(tokenizer.convert_ids_to_tokens(input_ids[answer_start:answer_end]))
-    return answer
-
-```
-## 🔍 Funcionalidad
-
-Este sistema usa BERT para encontrar respuestas en un texto dado. La función ask_question toma una pregunta y un contexto y devuelve una respuesta que BERT encuentra en el contexto. 🤖
-
-## 📝 Ejemplos
-
-¡Ahora vamos a jugar con algunos ejemplos! 🎉
-
-### Ejemplo 1: Aprendizaje Automático 🤖
-
-```python
-context = """
-El aprendizaje automático es una rama de la inteligencia artificial (IA) que permite a las computadoras aprender sin ser programadas explícitamente.
-El aprendizaje automático supervisado utiliza datos etiquetados para entrenar algoritmos, mientras que el aprendizaje no supervisado trabaja con datos no etiquetados.
-En el aprendizaje supervisado, los ejemplos de entrenamiento incluyen tanto las entradas como las salidas deseadas, y el algoritmo aprende a mapear las entradas a las salidas.
-Ejemplos comunes de algoritmos de aprendizaje automático supervisado incluyen regresión lineal, máquinas de vectores de soporte (SVM), y redes neuronales.
-"""
-
-question = "¿Qué es el aprendizaje automático?"
-answer = ask_question(question, context)
-print("Respuesta del chatbot:", answer)
-
-# Salida: una rama de la inteligencia artificial ( ia ) que permite a las computadoras aprender sin ser programadas explicitamente
-```
-
-### Ejemplo 2: Cambio Climático 🌍
-
-<p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/063935b9-5184-4620-a3e7-98d315a1a6a7"> 
-</p>
-
-```python
-context = """
-El cambio climático se refiere a los cambios significativos y duraderos en los patrones del clima global.
-Es un problema complejo que involucra varias causas entre ellas el aumento de las concentraciones de gases de efecto invernadero en la atmósfera debido a actividades humanas como la quema de combustibles fósiles y la deforestación.
-Estos gases atrapan el calor en la atmósfera, lo que lleva al calentamiento global.
-El cambio climático puede resultar en eventos meteorológicos extremos, cambios en los patrones de lluvia, y aumento del nivel del mar, afectando a ecosistemas y comunidades humanas en todo el mundo.
-Las acciones para mitigar el cambio climático incluyen la reducción de las emisiones de gases de efecto invernadero, el uso de fuentes de energía renovable, y la mejora de la eficiencia energética.
-"""
-
-question = "¿Qué es el cambio climático?"
-answer = ask_question(question, context)
-print("Respuesta del chatbot:", answer)
-
-# Salida: un problema complejo que involucra varias causas
-
-```
-
-## 📜 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles. 📄
+1. **Instalar TensorFlow**: ejecuta !pip install tensorflow para instalar TensorFlow en tu entorno Colab. 🛠️
+2. **Importar librerías**: importa las librerías necesarias con import tensorflow as tf y otros. 📦
+3. **Cargar y Normalizar Datos**: carga el conjunto de datos MNIST y normaliza las imágenes dividiendo por 255. 📊
+4.  **Definir y compilar el modelo**: crea el modelo CNN usando tf.keras.models.Sequential y compílalo. 🏗️
+5. **Entrenar el modelo**: entrena el modelo con model.fit por 5 épocas. 🏋️‍♂️
+6. **Evaluar el modelo**: evalúa el rendimiento del modelo en datos de prueba. 📈
+7. **Visualizar predicciones:**: usa funciones de matplotlib para mostrar predicciones y ver qué tan bien clasifica los dígitos. 👀
 
 
-¡Y así es como los minions pueden usar el sistema de preguntas y respuestas con BERT! ¡Banana! 🍌
+# ¡Diviértete aprendiendo y creando con IA! 
+¡Espero que este `README.md` te sea útil y divertido para tu proyecto! 😄🎬
 
