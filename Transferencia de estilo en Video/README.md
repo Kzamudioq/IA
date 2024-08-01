@@ -8,9 +8,8 @@
 
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/Kzamudioq/IA/assets/138271936/072c1b1f-f663-4e15-8817-8af36b61b48c"> 
+    <img width="60%" src="https://github.com/user-attachments/assets/21474f00-d694-4a0c-ace2-79d5b5dd27bb"> 
 </p>
-
 
 ## 🚀 **¿Qué Hace Este Proyecto?**
 
@@ -280,7 +279,7 @@ def create_video(content_path, style_path, num_iterations=1000, video_filename='
 Si tienes alguna pregunta o sugerencia, ¡no dudes en abrir un "issue"! Y si te sientes aventurero, contribuye al proyecto para hacerlo aún más increíble. ¡Gracias por ser parte de esta aventura artística!
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/IA/assets/138271936/21dfcd84-26e7-45f8-8ef8-9bac1ae5de61"> 
+    <img width="60%" src="https://github.com/user-attachments/assets/c798c172-1f0e-47ec-a16d-df31124952df"> 
 </p>
 
 ## 🚀 ¡Licencia! 🚀
