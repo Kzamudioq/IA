@@ -12,13 +12,14 @@
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
 
----
+
 
 ## 🤖 ¿Qué es la Inteligencia Artificial?
 
 La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, <span title="El aprendizaje es clave en la IA: las máquinas identifican patrones a partir de datos para mejorar su desempeño." style="color:yellow;">aprender</span> de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es <span title="La matemática proporciona la base para modelos, algoritmos y cálculos precisos en la IA." style="color:yellow;">matemática</span>, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA." style="color:yellow;">lógica</span> y un poco de <span title="El jazz computacional es una metáfora para expresar cómo la IA puede improvisar dentro de ciertas reglas." style="color:yellow;">jazz computacional</span>.
 
----
+
+## 🌍 Aplicaciones prácticas
 
 La inteligencia artificial no solo se usa para analizar emociones en diálogos ficticios. Estas técnicas también tienen aplicaciones prácticas como:
 
@@ -27,7 +28,7 @@ La inteligencia artificial no solo se usa para analizar emociones en diálogos f
 3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios." style="color:yellow;">Clasificación de reseñas</span>:** identificar si un comentario en una tienda online es positivo, negativo o neutral.
 4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos." style="color:yellow;">Detección temprana de emociones</span>:** en salud mental, analizar patrones en textos que podrían indicar problemas emocionales.
 
----
+## 🚀 ¿Qué hace este proyecto?
 
 Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden aplicarse a situaciones más complejas. De esta manera, en el presente ejemplo la IA se aplica al <span title="El procesamiento del lenguaje natural (NLP) permite que las máquinas entiendan y analicen el lenguaje humano." style="color:yellow;">procesamiento del lenguaje natural (NLP)</span> para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
 
@@ -35,14 +36,11 @@ Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden ap
     <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
 
-## 🚀 ¿Qué hace este proyecto?
-
 - **Preprocesamiento de texto:** Limpieza, tokenización, lematización… en otras palabras, convierte el caos en orden (¡algo que mi hermano Bart debería aprender!).
 - **Traducción automática:** Transforma nuestros diálogos del inglés al español con la ayuda de `deep-translator`.
 - **Análisis de emociones:** Usa `NRCLex`para encontrar sentimientos como alegría, tristeza, enojo y sorpresa. "¿Adivinen cuál predomina en Homero? ¡Pista: no es sorpresa!".
 - **Visualización interactiva:** Nubes de palabras y gráficos que explican los resultados de forma elegante, como mis solos de saxofón.
 
----
 
 ## 📊 Datos del Proyecto
 
@@ -53,7 +51,7 @@ El análisis utiliza un dataset basado en los diálogos de **Los Simpson**, con 
 3. **`number`:** Orden de la línea dentro del episodio.
 4. **`raw_text`:** El contenido del diálogo o descripción.
 
----
+
 
 ### **Ejemplo de las primeras líneas:**
 | **id** | **episode_id** | **number** | **raw_text**                                                                                             |
@@ -64,22 +62,44 @@ El análisis utiliza un dataset basado en los diálogos de **Los Simpson**, con 
 | 9552   | 32             | 212        | Lisa Simpson: That life is worth living.                                                               |
 | 9553   | 32             | 213        | Edna Krabappel-Flanders: The polls will be open from now until the end of recess...                     |
 
----
 
 ### **Transformaciones realizadas en los datos:**
 Durante el análisis, el dataset se preprocesa para:
 - **Limpiar:** Se eliminan caracteres innecesarios y palabras vacías.
 - **Traducir:** Los diálogos se convierten del inglés al español.
-- **Tokenizar y lematizar:** Se dividen las frases en palabras y se extraen sus raíces gramaticales.
+- **Tokenizar y lematizar:** Se dividen las frases en palabras y se extraen sus raíces gramaticales. Estos son pasos clave en el procesamiento de lenguaje natural para que la inteligencia artificial entienda los textos de manera más eficiente. A continuación, te mostramos cómo funcionan con un ejemplo práctico:
 
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/ec4def79-a4c4-475c-a2f7-56f8912cecfd"> 
-</p>
+#### **1. Tokenizar**
+Dividimos una frase en pequeñas unidades llamadas **tokens**, que pueden ser palabras o signos de puntuación.
 
+**Texto original:**
+```plaintext
+Lisa Simpson está aprendiendo inteligencia artificial.
+```
+
+**Tokens generados:**
+
+```plaintext
+["Lisa", "Simpson", "está", "aprendiendo", "inteligencia", "artificial", "."]
+```
+
+#### **2. Lematizar**
+Convertimos cada palabra en su forma base o lema, eliminando conjugaciones o variaciones mientras respetamos el contexto gramatical.
+
+**Tokens antes de lematizar:**
+```plaintext
+["aprendiendo", "inteligencia", "artificial", "estudiantes"]
+```
+
+**Tokens después de lematizar:**
+
+```plaintext
+["aprender", "inteligencia", "artificial", "estudiante"]
+```
 
 Estos pasos garantizan que la inteligencia artificial pueda procesar el texto de manera eficiente para identificar emociones y patrones.
 
----
+
 
 ## 📁 Estructura del Repositorio
 
