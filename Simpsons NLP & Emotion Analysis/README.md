@@ -14,7 +14,8 @@
 
 ## 🤖 ¿Qué es la Inteligencia Artificial?
 
-`La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, aprender de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es matemática, lógica y un poco de jazz computacional.`
+La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, aprender de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es matemática, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA.">lógica</span> y un poco de jazz computacional.
+
 
 La inteligencia artificial no solo se usa para analizar emociones en diálogos ficticios. Estas técnicas también tienen aplicaciones prácticas como:
 
