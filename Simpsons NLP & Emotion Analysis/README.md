@@ -30,15 +30,46 @@ Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden ap
 </p>
 
 
-
-
-
 ## 🚀 ¿Qué hace este proyecto?
 
 - **Preprocesamiento de texto:** Limpieza, tokenización, lematización… en otras palabras, convierte el caos en orden (¡algo que mi hermano Bart debería aprender!).
 - **Traducción automática:** Transforma nuestros diálogos del inglés al español con la ayuda de `deep-translator`.
 - **Análisis de emociones:** Usa `NRCLex`para encontrar sentimientos como alegría, tristeza, enojo y sorpresa. "¿Adivinen cuál predomina en Homero? ¡Pista: no es sorpresa!".
 - **Visualización interactiva:** Nubes de palabras y gráficos que explican los resultados de forma elegante, como mis solos de saxofón.
+
+---
+
+## 📊 Datos del Proyecto
+
+El análisis utiliza un dataset basado en los diálogos de **Los Simpson**, con líneas de texto y descripciones de escenas. A continuación, se describen las columnas principales del dataset:
+
+1. **`id`:** Identificador único de cada línea de diálogo o descripción.
+2. **`episode_id`:** Número del episodio al que pertenece la línea.
+3. **`number`:** Orden de la línea dentro del episodio.
+4. **`raw_text`:** El contenido del diálogo o descripción.
+
+---
+
+### **Ejemplo de las primeras líneas:**
+| **id** | **episode_id** | **number** | **raw_text**                                                                                             |
+|--------|----------------|------------|---------------------------------------------------------------------------------------------------------|
+| 9549   | 32             | 209        | Miss Hoover: No, actually, it was a little of both. Sometimes when a disease is in all the magazines... |
+| 9550   | 32             | 210        | Lisa Simpson: (NEAR TEARS) Where's Mr. Bergstrom?                                                      |
+| 9551   | 32             | 211        | Miss Hoover: I don't know. Although I'd sure like to talk to him. He didn't touch my lesson plan...    |
+| 9552   | 32             | 212        | Lisa Simpson: That life is worth living.                                                               |
+| 9553   | 32             | 213        | Edna Krabappel-Flanders: The polls will be open from now until the end of recess...                     |
+
+---
+
+### **Transformaciones realizadas en los datos:**
+Durante el análisis, el dataset se preprocesa para:
+- **Limpiar:** Se eliminan caracteres innecesarios y palabras vacías.
+- **Traducir:** Los diálogos se convierten del inglés al español.
+- **Tokenizar y lematizar:** Se dividen las frases en palabras y se extraen sus raíces gramaticales.
+
+Estos pasos garantizan que la inteligencia artificial pueda procesar el texto de manera eficiente para identificar emociones y patrones.
+
+---
 
 ## 📁 Estructura del Repositorio
 
