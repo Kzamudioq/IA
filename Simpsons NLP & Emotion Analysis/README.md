@@ -20,32 +20,20 @@ La inteligencia artificial (IA) es la capacidad de las máquinas para resolver p
 
 ## 🌍 Aplicaciones prácticas
 
-1. **<span title="Analizar publicaciones y comentarios en redes sociales permite entender opiniones y emociones predominantes." style="color:yellow;">Análisis de sentimientos en redes sociales</span>:**
-   - Comprender la percepción del público sobre eventos o marcas.
-2. **<span title="Los chatbots modernos utilizan IA para interactuar de manera natural y resolver problemas en tiempo real." style="color:yellow;">Mejora de chatbots</span>:**
-   - Crear asistentes virtuales más empáticos y efectivos.
-3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios." style="color:yellow;">Clasificación de reseñas</span>:**
-   - Identificar si un comentario en una tienda online es positivo, negativo o neutral.
-4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos." style="color:yellow;">Detección temprana de emociones</span>:**
-   - Analizar patrones en textos para identificar problemas emocionales.
+1. **<span title="Analizar publicaciones y comentarios en redes sociales permite entender opiniones y emociones predominantes." style="color:yellow;">Análisis de sentimientos en redes sociales</span>:** comprender la percepción del público sobre eventos o marcas.
+2. **<span title="Los chatbots modernos utilizan IA para interactuar de manera natural y resolver problemas en tiempo real." style="color:yellow;">Mejora de chatbots</span>:** crear asistentes virtuales más empáticos y efectivos.
+3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios." style="color:yellow;">Clasificación de reseñas</span>:** identificar si un comentario en una tienda online es positivo, negativo o neutral.
+4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos." style="color:yellow;">Detección temprana de emociones</span>:** analizar patrones en textos para identificar problemas emocionales.
 
 ---
 
-## 🚀 ¿Qué hace este proyecto?
+## 🚀 Objetivo del Proyecto
 
 Este proyecto aplica **procesamiento del lenguaje natural (NLP)** para analizar cómo las emociones se expresan en los diálogos de mi familia. "Incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
-
-### **Características principales:**
-
-- **Preprocesamiento de texto:** Limpieza, tokenización y lematización.
-- **Traducción automática:** Transforma diálogos del inglés al español.
-- **Análisis de emociones:** Encuentra sentimientos como alegría, tristeza, enojo y sorpresa.
-- **Visualización interactiva:** Nubes de palabras y gráficos.
-
 ---
 
 ## 📊 Datos del Proyecto
