@@ -12,24 +12,28 @@
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
 
+---
+
 ## 🤖 ¿Qué es la Inteligencia Artificial?
 
-La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, aprender de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es matemática, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA.">lógica</span> y un poco de jazz computacional.
+La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, <span title="El aprendizaje es clave en la IA: las máquinas identifican patrones a partir de datos para mejorar su desempeño.">aprender</span> de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es <span title="La matemática proporciona la base para modelos, algoritmos y cálculos precisos en la IA.">matemática</span>, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA.">lógica</span> y un poco de <span title="El jazz computacional es una metáfora para expresar cómo la IA puede improvisar dentro de ciertas reglas.">jazz computacional</span>.
 
+---
 
 La inteligencia artificial no solo se usa para analizar emociones en diálogos ficticios. Estas técnicas también tienen aplicaciones prácticas como:
 
-1. **Análisis de sentimientos en redes sociales:** comprender la percepción del público sobre eventos o marcas.
-2. **Mejora de chatbots:** crear asistentes virtuales más empáticos y efectivos.
-3. **Clasificación de reseñas:** identificar si un comentario en una tienda online es positivo, negativo o neutral.
-4. **Detección temprana de emociones:** en salud mental, analizar patrones en textos que podrían indicar problemas emocionales.
+1. **<span title="Analizar publicaciones y comentarios en redes sociales permite entender opiniones y emociones predominantes.">Análisis de sentimientos en redes sociales</span>:** comprender la percepción del público sobre eventos o marcas.
+2. **<span title="Los chatbots modernos utilizan IA para interactuar de manera natural y resolver problemas en tiempo real.">Mejora de chatbots</span>:** crear asistentes virtuales más empáticos y efectivos.
+3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios.">Clasificación de reseñas</span>:** identificar si un comentario en una tienda online es positivo, negativo o neutral.
+4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos.">Detección temprana de emociones</span>:** en salud mental, analizar patrones en textos que podrían indicar problemas emocionales.
 
-Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden aplicarse a situaciones más complejas. De esta manera, en el presente ejemplo la IA se aplica al procesamiento del lenguaje natural (NLP) para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
+---
+
+Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden aplicarse a situaciones más complejas. De esta manera, en el presente ejemplo la IA se aplica al <span title="El procesamiento del lenguaje natural (NLP) permite que las máquinas entiendan y analicen el lenguaje humano.">procesamiento del lenguaje natural (NLP)</span> para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
-
 
 ## 🚀 ¿Qué hace este proyecto?
 
