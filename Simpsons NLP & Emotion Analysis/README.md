@@ -1,5 +1,3 @@
-@Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
-
 <h1 align="center">
   <p align="center">:star: Análisis de Lenguaje y Emociones en Los Simpson :star:</p>
 </h1>
@@ -12,95 +10,82 @@
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
 
-
+---
 
 ## 🤖 ¿Qué es la Inteligencia Artificial?
 
-La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, <span title="El aprendizaje es clave en la IA: las máquinas identifican patrones a partir de datos para mejorar su desempeño." style="color:yellow;">aprender</span> de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es <span title="La matemática proporciona la base para modelos, algoritmos y cálculos precisos en la IA." style="color:yellow;">matemática</span>, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA." style="color:yellow;">lógica</span> y un poco de <span title="El jazz computacional es una metáfora para expresar cómo la IA puede improvisar dentro de ciertas reglas." style="color:yellow;">jazz computacional</span>.
+La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, <span title="El aprendizaje es clave en la IA: las máquinas identifican patrones a partir de datos para mejorar su desempeño." style="color:yellow;">**aprender**</span> de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es <span title="La matemática proporciona la base para modelos, algoritmos y cálculos precisos en la IA." style="color:yellow;">**matemática**</span>, <span title="La lógica es el estudio del razonamiento válido, que se utiliza para estructurar procesos de decisión y análisis en IA." style="color:yellow;">**lógica**</span> y un poco de <span title="El jazz computacional es una metáfora para expresar cómo la IA puede improvisar dentro de ciertas reglas." style="color:yellow;">**jazz computacional**</span>.
 
+---
 
 ## 🌍 Aplicaciones prácticas
 
-La inteligencia artificial no solo se usa para analizar emociones en diálogos ficticios. Estas técnicas también tienen aplicaciones prácticas como:
+1. **<span title="Analizar publicaciones y comentarios en redes sociales permite entender opiniones y emociones predominantes." style="color:yellow;">Análisis de sentimientos en redes sociales</span>:**
+   - Comprender la percepción del público sobre eventos o marcas.
+2. **<span title="Los chatbots modernos utilizan IA para interactuar de manera natural y resolver problemas en tiempo real." style="color:yellow;">Mejora de chatbots</span>:**
+   - Crear asistentes virtuales más empáticos y efectivos.
+3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios." style="color:yellow;">Clasificación de reseñas</span>:**
+   - Identificar si un comentario en una tienda online es positivo, negativo o neutral.
+4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos." style="color:yellow;">Detección temprana de emociones</span>:**
+   - Analizar patrones en textos para identificar problemas emocionales.
 
-1. **<span title="Analizar publicaciones y comentarios en redes sociales permite entender opiniones y emociones predominantes." style="color:yellow;">Análisis de sentimientos en redes sociales</span>:** comprender la percepción del público sobre eventos o marcas.
-2. **<span title="Los chatbots modernos utilizan IA para interactuar de manera natural y resolver problemas en tiempo real." style="color:yellow;">Mejora de chatbots</span>:** crear asistentes virtuales más empáticos y efectivos.
-3. **<span title="Clasificar reseñas ayuda a las empresas a priorizar problemas o destacar puntos positivos en sus servicios." style="color:yellow;">Clasificación de reseñas</span>:** identificar si un comentario en una tienda online es positivo, negativo o neutral.
-4. **<span title="En salud mental, la IA puede analizar textos en busca de patrones que sugieran emociones o estados críticos." style="color:yellow;">Detección temprana de emociones</span>:** en salud mental, analizar patrones en textos que podrían indicar problemas emocionales.
+---
 
 ## 🚀 ¿Qué hace este proyecto?
 
-Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden aplicarse a situaciones más complejas. De esta manera, en el presente ejemplo la IA se aplica al <span title="El procesamiento del lenguaje natural (NLP) permite que las máquinas entiendan y analicen el lenguaje humano." style="color:yellow;">procesamiento del lenguaje natural (NLP)</span> para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
+Este proyecto aplica **procesamiento del lenguaje natural (NLP)** para analizar cómo las emociones se expresan en los diálogos de mi familia. "Incluso Bart tiene emociones... aunque a veces son solo `¡Ay, caramba!` repetido de diferentes maneras."
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
 
-- **Preprocesamiento de texto:** Limpieza, tokenización, lematización… en otras palabras, convierte el caos en orden (¡algo que mi hermano Bart debería aprender!).
-- **Traducción automática:** Transforma nuestros diálogos del inglés al español con la ayuda de `deep-translator`.
-- **Análisis de emociones:** Usa `NRCLex`para encontrar sentimientos como alegría, tristeza, enojo y sorpresa. "¿Adivinen cuál predomina en Homero? ¡Pista: no es sorpresa!".
-- **Visualización interactiva:** Nubes de palabras y gráficos que explican los resultados de forma elegante, como mis solos de saxofón.
+### **Características principales:**
 
+- **Preprocesamiento de texto:** Limpieza, tokenización y lematización.
+- **Traducción automática:** Transforma diálogos del inglés al español.
+- **Análisis de emociones:** Encuentra sentimientos como alegría, tristeza, enojo y sorpresa.
+- **Visualización interactiva:** Nubes de palabras y gráficos.
+
+---
 
 ## 📊 Datos del Proyecto
 
-El análisis utiliza un dataset basado en los diálogos de **Los Simpson**, con líneas de texto y descripciones de escenas. A continuación, se describen las columnas principales del dataset:
+### **Descripción del dataset:**
 
-1. **`id`:** Identificador único de cada línea de diálogo o descripción.
-2. **`episode_id`:** Número del episodio al que pertenece la línea.
-3. **`number`:** Orden de la línea dentro del episodio.
-4. **`raw_text`:** El contenido del diálogo o descripción.
+| **Columna**      | **Descripción**                                                                  |
+|-------------------|----------------------------------------------------------------------------------|
+| `id`             | Identificador único de cada línea de diálogo o descripción.                      |
+| `episode_id`     | Número del episodio al que pertenece la línea.                                   |
+| `number`         | Orden de la línea dentro del episodio.                                           |
+| `raw_text`       | El contenido del diálogo o descripción.                                          |
 
-
+---
 
 ### **Ejemplo de las primeras líneas:**
+
 | **id** | **episode_id** | **number** | **raw_text**                                                                                             |
 |--------|----------------|------------|---------------------------------------------------------------------------------------------------------|
 | 9549   | 32             | 209        | Miss Hoover: No, actually, it was a little of both. Sometimes when a disease is in all the magazines... |
 | 9550   | 32             | 210        | Lisa Simpson: (NEAR TEARS) Where's Mr. Bergstrom?                                                      |
-| 9551   | 32             | 211        | Miss Hoover: I don't know. Although I'd sure like to talk to him. He didn't touch my lesson plan...    |
-| 9552   | 32             | 212        | Lisa Simpson: That life is worth living.                                                               |
-| 9553   | 32             | 213        | Edna Krabappel-Flanders: The polls will be open from now until the end of recess...                     |
 
+---
 
 ### **Transformaciones realizadas en los datos:**
-Durante el análisis, el dataset se preprocesa para:
-- **Limpiar:** Se eliminan caracteres innecesarios y palabras vacías.
-- **Traducir:** Los diálogos se convierten del inglés al español.
-- **Tokenizar y lematizar:** Se dividen las frases en palabras y se extraen sus raíces gramaticales. Estos son pasos clave en el procesamiento de lenguaje natural para que la inteligencia artificial entienda los textos de manera más eficiente. A continuación, te mostramos cómo funcionan con un ejemplo práctico:
 
-#### **1. Tokenizar**
-Dividimos una frase en pequeñas unidades llamadas **tokens**, que pueden ser palabras o signos de puntuación.
+#### 1. **Limpieza**
+Eliminación de caracteres no alfabéticos y palabras vacías.
 
-**Texto original:**
-```plaintext
-Lisa Simpson está aprendiendo inteligencia artificial.
-```
+#### 2. **Tokenización**
+División de frases en palabras o signos de puntuación.
 
-**Tokens generados:**
+#### 3. **Lematización**
+Conversión de palabras a su forma base.
 
 ```plaintext
-["Lisa", "Simpson", "está", "aprendiendo", "inteligencia", "artificial", "."]
+Texto original: "Lisa Simpson está aprendiendo inteligencia artificial."
+Tokens: ["Lisa", "Simpson", "está", "aprendiendo", "inteligencia", "artificial", "."]
+Tokens lematizados: ["Lisa", "Simpson", "estar", "aprender", "inteligencia", "artificial", "."]
 ```
-
-#### **2. Lematizar**
-Convertimos cada palabra en su forma base o lema, eliminando conjugaciones o variaciones mientras respetamos el contexto gramatical.
-
-**Tokens antes de lematizar:**
-```plaintext
-["aprendiendo", "inteligencia", "artificial", "estudiantes"]
-```
-
-**Tokens después de lematizar:**
-
-```plaintext
-["aprender", "inteligencia", "artificial", "estudiante"]
-```
-
-Estos pasos garantizan que la inteligencia artificial pueda procesar el texto de manera eficiente para identificar emociones y patrones.
-
-
-
 ## 📁 Estructura del Repositorio
 
 "Todo buen proyecto debe ser tan organizado como mi estantería de libros. ¡Aquí tienes cómo está estructurado este!"
