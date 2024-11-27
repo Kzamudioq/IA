@@ -35,8 +35,6 @@ Este proyecto es solo un ejemplo divertido de cómo estas herramientas pueden ap
     <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
 
----
-
 ## 🚀 ¿Qué hace este proyecto?
 
 - **Preprocesamiento de texto:** Limpieza, tokenización, lematización… en otras palabras, convierte el caos en orden (¡algo que mi hermano Bart debería aprender!).
