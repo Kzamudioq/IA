@@ -60,11 +60,31 @@ División de frases en palabras o signos de puntuación.
 #### 3. **Lematización**
 Conversión de palabras a su forma base.
 
-```plaintext
-Texto original: "Lisa Simpson está aprendiendo inteligencia artificial."
-Tokens: ["Lisa", "Simpson", "está", "aprendiendo", "inteligencia", "artificial", "."]
-Tokens lematizados: ["Lisa", "Simpson", "estar", "aprender", "inteligencia", "artificial", "."]
+
+
+### Análisis de Emociones con NRCLex
+NRCLex es una biblioteca de Python que utiliza el léxico de emociones NRC (National Research Council Canada) para clasificar palabras en diferentes categorías emocionales. Este léxico contiene miles de palabras mapeadas a emociones básicas como **alegría**, **tristeza**, **ira**, **miedo**, etc., y también a polaridades generales como **positivo** o **negativo**.
+
+NRCLex es una herramienta que permite analizar emociones y polaridades en un texto utilizando el léxico NRC. Este es el proceso que sigue:
+
+1. Tokeniza el texto
+El sistema divide el texto en palabras individuales. Por ejemplo:
+
+```python
+["I", "am", "so", "happy", "This", "is", "a", "sad", "moment"]
 ```
+2. Busca las palabras en el léxico NRC
+Cada palabra se compara con el léxico NRC para encontrar sus asociaciones emocionales. Algunos ejemplos:
+
+```python
+"happy" → Asociado con joy (alegría) y positive (positivo).
+"sad" → Asociado con sadness (tristeza) y negative (negativo).
+```
+
+3. Clasifica las palabras por emociones
+Finalmente, NRCLex cuenta cuántas palabras del texto están asociadas con cada emoción o polaridad, generando un análisis emocional del texto.
+
+
 ## 📁 Estructura del Repositorio
 
 "Todo buen proyecto debe ser tan organizado como mi estantería de libros. ¡Aquí tienes cómo está estructurado este!"
