@@ -4,7 +4,7 @@
 
 `🎷 Hola, soy Lisa Simpson`
 
-"¿Sabías que la inteligencia artificial puede analizar emociones, aprender patrones y hasta tocar jazz? Bueno, tal vez no literalmente, pero está cerca. ¡Déjame explicarte cómo funciona este proyecto!"
+"¿Sabías que la inteligencia artificial puede analizar emociones y aprender patrones, tal vez no literalmente, pero está cerca. ¡Déjame explicarte cómo funciona este proyecto!"
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
