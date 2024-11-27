@@ -51,15 +51,7 @@ Este proyecto aplica **procesamiento del lenguaje natural (NLP)** para analizar 
 
 ### **Transformaciones realizadas en los datos:**
 
-#### 1. **Limpieza**
-Eliminación de caracteres no alfabéticos y palabras vacías.
-
-#### 2. **Tokenización**
-División de frases en palabras o signos de puntuación.
-
-#### 3. **Lematización**
-Conversión de palabras a su forma base.
-
+El proceso de preprocesamiento de texto incluye tres etapas principales: limpieza, donde se eliminan caracteres no alfabéticos y palabras vacías; tokenización, que divide las frases en palabras o signos de puntuación; y lematización, que convierte las palabras a su forma base para un tratamiento uniforme.
 
 
 ### Análisis de Emociones con NRCLex
