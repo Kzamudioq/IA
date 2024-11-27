@@ -72,6 +72,11 @@ Durante el análisis, el dataset se preprocesa para:
 - **Traducir:** Los diálogos se convierten del inglés al español.
 - **Tokenizar y lematizar:** Se dividen las frases en palabras y se extraen sus raíces gramaticales.
 
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/user-attachments/assets/ec4def79-a4c4-475c-a2f7-56f8912cecfd"> 
+</p>
+
+
 Estos pasos garantizan que la inteligencia artificial pueda procesar el texto de manera eficiente para identificar emociones y patrones.
 
 ---
