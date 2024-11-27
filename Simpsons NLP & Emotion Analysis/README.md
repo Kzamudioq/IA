@@ -18,9 +18,14 @@
 
 "La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, aprender de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es matemática, lógica y un poco de jazz computacional."
 
--------------------------------------------------------------------------------------------
+En este proyecto, la IA se aplica al procesamiento del lenguaje natural (NLP) para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo '¡Ay, caramba!' repetido de diferentes maneras."
 
-"¿Listos para aprender algo increíble? Este proyecto utiliza inteligencia artificial y procesamiento de lenguaje natural (NLP) para analizar los diálogos de mi familia… y créanme, ¡hay mucho que analizar!". Aquí vamos a explorar cómo las emociones se esconden (o no tanto) en las frases de personajes como Bart, Marge, Homero y, por supuesto, yo. ¡Es como interpretar jazz, pero con palabras!
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="Lisa Simpson GIF" width="50%">
+</p>
+
+![ay_caramba]()
+
 
 ## 🚀 ¿Qué hace este proyecto?
 
