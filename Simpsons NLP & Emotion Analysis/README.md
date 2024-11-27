@@ -21,7 +21,7 @@
 En este proyecto, la IA se aplica al procesamiento del lenguaje natural (NLP) para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo '¡Ay, caramba!' repetido de diferentes maneras."
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="Lisa Simpson GIF" width="50%">
+    <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="Lisa Simpson GIF" width="100%">
 </p>
 
 ![ay_caramba]()
