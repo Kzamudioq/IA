@@ -6,12 +6,21 @@
 
 `🎷 Hola, soy Lisa Simpson`
 
-"¿Listos para aprender algo increíble? Este proyecto utiliza inteligencia artificial y procesamiento de lenguaje natural (NLP) para analizar los diálogos de mi familia… y créanme, ¡hay mucho que analizar!"
+"¿Sabías que la inteligencia artificial puede analizar emociones, aprender patrones y hasta tocar jazz? Bueno, tal vez no literalmente, pero está cerca. ¡Déjame explicarte cómo funciona este proyecto!"
+
+
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
-Aquí vamos a explorar cómo las emociones se esconden (o no tanto) en las frases de personajes como Bart, Marge, Homero y, por supuesto, yo. ¡Es como interpretar jazz, pero con palabras!
+
+## 🤖 ¿Qué es la Inteligencia Artificial?
+
+"La inteligencia artificial (IA) es la capacidad de las máquinas para resolver problemas, aprender de los datos y tomar decisiones de manera autónoma, imitando aspectos clave de la inteligencia humana. Pero no, no es magia, ni ciencia ficción. Es matemática, lógica y un poco de jazz computacional."
+
+-------------------------------------------------------------------------------------------
+
+"¿Listos para aprender algo increíble? Este proyecto utiliza inteligencia artificial y procesamiento de lenguaje natural (NLP) para analizar los diálogos de mi familia… y créanme, ¡hay mucho que analizar!". Aquí vamos a explorar cómo las emociones se esconden (o no tanto) en las frases de personajes como Bart, Marge, Homero y, por supuesto, yo. ¡Es como interpretar jazz, pero con palabras!
 
 ## 🚀 ¿Qué hace este proyecto?
 
