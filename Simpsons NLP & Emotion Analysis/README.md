@@ -8,8 +8,6 @@
 
 "¿Sabías que la inteligencia artificial puede analizar emociones, aprender patrones y hasta tocar jazz? Bueno, tal vez no literalmente, pero está cerca. ¡Déjame explicarte cómo funciona este proyecto!"
 
-
-
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
@@ -21,10 +19,8 @@
 En este proyecto, la IA se aplica al procesamiento del lenguaje natural (NLP) para analizar cómo las emociones se expresan en los diálogos de mi familia. "Sí, incluso Bart tiene emociones... aunque a veces son solo '¡Ay, caramba!' repetido de diferentes maneras."
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="Lisa Simpson GIF" width="100%">
+    <img src="https://github.com/user-attachments/assets/f68264a5-d6a7-4842-a318-c6b07686d723" alt="bart Simpson GIF" width="100%">
 </p>
-
-![ay_caramba]()
 
 
 ## 🚀 ¿Qué hace este proyecto?
