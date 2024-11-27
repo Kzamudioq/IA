@@ -61,15 +61,6 @@ Este proyecto aplica **procesamiento del lenguaje natural (NLP)** para analizar 
 
 ---
 
-### **Ejemplo de las primeras líneas:**
-
-| **id** | **episode_id** | **number** | **raw_text**                                                                                             |
-|--------|----------------|------------|---------------------------------------------------------------------------------------------------------|
-| 9549   | 32             | 209        | Miss Hoover: No, actually, it was a little of both. Sometimes when a disease is in all the magazines... |
-| 9550   | 32             | 210        | Lisa Simpson: (NEAR TEARS) Where's Mr. Bergstrom?                                                      |
-
----
-
 ### **Transformaciones realizadas en los datos:**
 
 #### 1. **Limpieza**
@@ -96,7 +87,6 @@ Simpsons-NLP-Emotion-Analysis/
 ├── data/                        # Archivos de datos utilizados
 ├── images/                      # Resultados visuales generados
 ├── README.md                    # Documentación principal
-├── requirements.txt             # Lista de dependencias
 ├── LICENSE                      # Licencia del proyecto
 ```
 
@@ -131,7 +121,6 @@ Ejecuta las celdas de instalación y configuración del notebook para cargar dep
 "Mis primeras palabras fueron 'Ay, caramba', ¡y aquí está la prueba!"
 
 - Análisis de Emociones: Lisa
-
 "¿Sabías que mis diálogos tienen más confianza y alegría que los de cualquiera? ¡Soy la voz de la razón en esta familia!"
 
 ## 🛠️ Tecnologías
