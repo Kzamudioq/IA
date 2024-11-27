@@ -9,9 +9,8 @@
 "¿Listos para aprender algo increíble? Este proyecto utiliza inteligencia artificial y procesamiento de lenguaje natural (NLP) para analizar los diálogos de mi familia… y créanme, ¡hay mucho que analizar!"
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/a81b3f8d-9889-4aad-881c-3eaf060760e4"> 
+    <img width="100%" src="https://github.com/user-attachments/assets/b980cb55-13ad-4208-aa5f-238174e12421"> 
 </p>
-
 Aquí vamos a explorar cómo las emociones se esconden (o no tanto) en las frases de personajes como Bart, Marge, Homero y, por supuesto, yo. ¡Es como interpretar jazz, pero con palabras!
 
 ## 🚀 ¿Qué hace este proyecto?
