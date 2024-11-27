@@ -1,7 +1,7 @@
 @Kzamudioq ¿Qué te parece el repositorio? ¡Está chido! :+1:
 
 <h1 align="center">
-  <p align="center">:star: Simpsons NLP & Emotion Analysis :star:</p>
+  <p align="center">:star: Análisis de Lenguaje y Emociones en Los Simpson :star:</p>
 </h1>
 
 `🎷 Hola, soy Lisa Simpson`
